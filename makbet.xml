@@ -1,0 +1,8350 @@
+<utwor><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:about="http://redakcja.wolnelektury.pl/documents/book/shakespeare-makbet/">
+<dc:creator xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Shakespeare, William</dc:creator>
+<dc:title xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Makbet</dc:title>
+<dc:contributor.translator xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Ulrich, Leon</dc:contributor.translator>
+<dc:contributor.editor xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Kraszewski, Józef Ignacy</dc:contributor.editor>
+<dc:contributor.editor xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Kowalska, Dorota</dc:contributor.editor>
+<dc:contributor.technical_editor xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Choromańska, Paulina</dc:contributor.technical_editor>
+<dc:publisher xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Fundacja Nowoczesna Polska</dc:publisher>
+<dc:subject.period xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Renesans</dc:subject.period>
+<dc:subject.type xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Dramat</dc:subject.type>
+<dc:subject.genre xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Dramat szekspirowski</dc:subject.genre>
+<dc:subject.genre xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Tragedia</dc:subject.genre>
+<dc:description xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Publikacja zrealizowana w ramach projektu Wolne Lektury (http://wolnelektury.pl). Reprodukcja cyfrowa wykonana przez Bibliotekę Narodową z egzemplarza pochodzącego ze zbiorów BN.</dc:description>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Wiesław Kuś</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Pawel</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Andrzej Krysiuk</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Ingeborga</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Bartosz Przybylski</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Iwona</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">ogryz</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Wojtek</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Przemek Przepiórka</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">vq</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Tadek Czajka</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Dana</dc:contributor.funding>
+<dc:contributor.funding xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Student</dc:contributor.funding>
+<dc:identifier.url xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">http://wolnelektury.pl/katalog/lektura/makbet</dc:identifier.url>
+<dc:source.URL xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<dc:source xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">William Shakespeare, Dzieła dramatyczne Williama Shakespeare (Szekspira) w dwunastu tomach, tłum. L. Ulrich, objaśnienia J.I. Kraszewski, tom V, nakł. G. Gebethnera i spółki, Kraków 1895.</dc:source>
+<dc:rights xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">Domena publiczna - tłumacz Leon Ulrich zm. 1885</dc:rights>
+<dc:date.pd xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">1956</dc:date.pd>
+<dc:format xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">xml</dc:format>
+<dc:type xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:type>
+<dc:type xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/">text</dc:type>
+<dc:date xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">2013-09-24</dc:date>
+<dc:audience xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">L</dc:audience>
+<dc:language xml:lang="pl" xmlns:dc="http://purl.org/dc/elements/1.1/">pol</dc:language>
+<dc:relation.coverImage.url xmlns:dc="http://purl.org/dc/elements/1.1/">http://redakcja.wolnelektury.pl/media/dynamic/cover/image/2534.jpg</dc:relation.coverImage.url>
+<dc:relation.coverImage.attribution xmlns:dc="http://purl.org/dc/elements/1.1/">garryknight@Flickr, CC BY-SA 2.0</dc:relation.coverImage.attribution>
+<dc:relation.coverImage.source xmlns:dc="http://purl.org/dc/elements/1.1/">http://redakcja.wolnelektury.pl/cover/image/2534</dc:relation.coverImage.source>
+</rdf:Description>
+</rdf:RDF><dramat_wierszowany_l>
+
+<autor_utworu>William Shakespeare</autor_utworu>
+
+
+
+ 
+<nazwa_utworu>Makbet<pe><slowo_obce>Makbet</slowo_obce> --- w oryginale
+ang. oraz w podstawie niniejszego wydania z 1895 r. pisownia: Macbeth. Postać stworzona przez Williama Shakespeare'a, inspirowana osobą Mac Bethada mac Findlaích, który był królem Szkocji w latach 1040--1057. Mac Bethad przejął tron Szkocji po Duncanie, którego zabił w bitwie, a potem odpierał ataki jego krewnych, wspomaganych przez ang. earla Siwarda. W 1050 r. Malcolm, syn Duncana, odebrał Mac Bethadowi południową część Szkocji, a w 1057, po powrocie rywala z pielgrzymki do Rzymu, pokonał go całkowicie. Mac Bethad został pochowany z królewskimi honorami; był uważany za dobrego władcę, potrafiącego zapewnić Szkocji ład i dostatek.</pe></nazwa_utworu>
+
+
+<nota_red>
+
+<akap>
+Uwspółcześnienia</akap>
+
+
+
+
+<akap>Pisownia łączna / rozdzielna: ciężko zbrojna > ciężkozbrojna; nowonarodzone > nowo narodzone; jakto > jak to; jakgdyby > jak gdyby; napół > na pół; bez trwogimbym przyjął > bez trwogi bym przyjął; tym czasem > tymczasem; co raz > coraz; niema > nie ma; jakąbądź > jaką bądź; z pod > spod; półduszny i pół rozumny > półduszny i półrozumny
+itp.</akap>
+
+
+
+
+
+<akap>Pisownia wielką literą w zdaniu: zmieniono na wielką literę po wykrzykniku, np. twój > Twój (Ródź tylko synów! Twój hart nieugięty / Mężów jedynie powinien kształtować!), pozostawiono małą literę po wołaczu (np. O zgrozo! zgrozo! ani cię potrafi / Język wysłowić, ani serce pojąć!).</akap>
+
+
+
+
+
+<akap>Pisownia joty i miękkości: daybeł > diabeł; egzekucya > egzekucja
+itp.</akap>
+
+
+
+
+
+<akap>Pisownia samogłosek nosowych: stępel > stempel; tentent > tętent.</akap>
+
+
+
+ 
+
+<akap>Pisownia grup spółgłoskowych: norwegski > norweski; wszechwładzców > wszechwładców.</akap>
+
+
+
+
+
+<akap>Pisownia spółgłosek dźwięcznych i bezdźwięcznych: przysiądz > przysiąc; puhar > puchar; z pod > spod; blizko > blisko; możesz > możeż (Możesz diabeł mówić prawdę?).</akap>
+
+
+
+
+
+<akap>Inne zmiany: uraganie > huraganie; złowróżby > złowróżbny; kocieł > kocioł; wydystylują > wydestylują.</akap>
+
+
+
+
+
+<akap>Pisownia i odmiana nazw obcych: Macbeth > Makbet; Kernów > krenów; Galloglasów > gallowglassów; Fifu > Fife'u; Dunsynanu > Dunsinane'u (wg Dunsinane); do Alepu > do Aleppo.</akap>
+
+
+ 
+
+
+<akap>Fleksja: Szkocyi > Szkocji; ujednolicono: wstajcie, wstańcie > wstańcie; dotycze > dotyczy; dwie nocy > dwie noce; wyślej > wyślij.</akap>
+
+
+
+
+
+<akap>Błąd źródła: spełnionia > spełniona; nagłówek osoby "Morderca" > "1 Morderca" (akt III, scena I, wg tekstu ang. z Wikisource.org).</akap>
+
+
+
+</nota_red>
+
+
+
+
+<naglowek_akt>AKT PIERWSZY</naglowek_akt>
+
+
+
+
+<naglowek_scena>SCENA I</naglowek_scena>
+
+<didaskalia>Otwarte pole.</didaskalia>
+
+
+
+<didaskalia>Grzmoty i błyskawice. --- Wchodzą trzy <osoba>Czarownice</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gdzie, kiedy nowe spotkanie?/
+W grzmotach, błyskach, huraganie?</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gdy wrzawa bitwy ustanie,/
+Jedno wojsko z pola pierzchnie.</strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>A więc jeszcze zanim zmierzchnie.</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Gdzie?
+</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Na stepie.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Sam na sam,</wers_cd>/
+By Makbeta spotkać tam.</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Idę, kotku.</strofa></kwestia>
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Już ropucha</wers_cd>/
+Woła na nas. Zaraz! Zaraz!/
+Brzydnieje uroda, brzydota pięknieje,/
+Więc dalej, więc dalej, przez mgły i zawieje!</strofa></kwestia>
+ 
+<didaskalia>Znikają.</didaskalia>
+
+
+<naglowek_scena>SCENA II</naglowek_scena>
+
+<didaskalia>Obóz niedaleko Forres.</didaskalia>
+
+
+
+<didaskalia>Alarm za sceną. --- Wchodzą: <osoba>król Duncan</osoba>, <osoba>Malcolm</osoba>, <osoba>Donalbain</osoba>,
+<osoba>Lennox</osoba>, Służba, spotykają rannego <osoba>Żołnierza</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>KRÓL DUNCAN<pe><slowo_obce>Duncan</slowo_obce> --- w innych polskich przekładach częstsza pisownia: Dunkan.</pe></naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Co to za żołnierz? Wnosząc z jego stanu,/
+On nam potrafi świeżą dać wiadomość,/
+Jak stoi teraz bój z buntownikami.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM<pe><slowo_obce>MALCOLM</slowo_obce> --- w innych polskich przekładach częstsza pisownia: Malkolm.</pe></naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ To sierżant, który z lwią odwagą walczył,/
+Aby mię wyrwać z rąk nieprzyjaciela./
+Witaj, kolego! Opowiedz królowi,/
+Jak się ważyły losy wojujących,/
+Kiedy plac bitwy ranny opuszczałeś.
+</strofa></kwestia>
+
+<naglowek_osoba>ŻOŁNIERZ</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Zwycięstwo, królu, wahało się jeszcze,/
+Armie podobne dwom były pływakom,/
+Co się chwytając śmiertelnym uściskiem,/
+Daremnią<pe><slowo_obce>daremnić</slowo_obce> (daw.) --- udaremniać.</pe> całą sztuki swojej biegłość./
+Srogi Macdonwald (wart być buntownikiem,/
+Tak wszystkie ludzkiej natury sprosności/
+Do jego podłej zleciały się duszy)/
+Przyzwał do siebie z zachodnich wysp kernów<pe><slowo_obce>kernowie</slowo_obce> --- lekkozbrojna najemna piechota irlandzka.</pe>/
+I gallowglasów<pe><slowo_obce>gallowglassowie</slowo_obce> --- ciężkozbrojna najemna piechota szkocka.</pe>, <begin id="b1378918512140-3495642251"/><motyw id="m1378918512140-3495642251">Bitwa, Odwaga, Okrucieństwo</motyw>a zmienna fortuna/
+Do buntownika uśmiechać się zdała,/
+Jakby chcąc jego nałożnicą zostać./
+Wszystko daremno, bo Makbet waleczny/
+(Nikt na tę nazwę lepiej nie zasłużył),/
+Gardząc fortuną, z dobytym orężem,/
+Który się dymił krwią nieprzyjaciela,/
+Chwały kochanek, do tego nędznika/
+Drogę wyrąbał, nie ścisnął mu ręki,/
+Ni go pożegnał, dopóki mu wprzódy/
+Czaszki po samą nie rozpłatał szczękę,/
+Głowy na naszych nie zawiesił blankach.<end id="e1378918512140-3495642251"/></strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Dzielny szlachcicu! Waleczny kuzynie!</strofa></kwestia>
+
+
+<naglowek_osoba>ŻOŁNIERZ</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Jak nieraz z strony, z której wstaje słońce,/
+Wybiega chmura gromami brzemienna,/
+Tak nam ze źródła spodziewanych zwycięstw/
+Niebezpieczeństwo wytrysnęło nowe./
+Słuchaj mnie tylko, królu Szkocji, słuchaj!/
+Zaledwo męstwem wsparta sprawiedliwość/
+Z placu potyczki zniosła kernów śmiecie,/
+Gdy król norweski, który na nas czyhał,/
+Z świeżym zastępem, z wyostrzoną bronią./
+Rozpoczął atak.</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Czy to nie strwożyło</wers_cd>/
+Mych wodzów dzielnych, Makbeta i Banqua<pe><slowo_obce>Banquo</slowo_obce> --- w innych polskich przekładach częstsza pisownia: Banko.</pe>?
+</strofa></kwestia>
+
+
+<naglowek_osoba>ŻOŁNIERZ</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>O tak, jak stado wróbli trwoży orła,/
+Albo lwa zając. By prawdę powiedzieć,/
+Byli jak działa podwójnie nabite,/
+Tak swoje krwawe ciosy podwoili,/
+Jakby się chcieli kąpać w krwi dymiącej,/
+Lub jaką drugą uwiecznić Golgotę./
+Lecz rany moje wołają o pomoc.</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Słowa ci twoje, jak rany przystoją,/
+W obu zarówno jasny świeci honor./
+Więc go bez zwłoki wiedźcie do doktora!/
+<didask_tekst>Wyprowadzają <osoba>Żołnierza</osoba>. --- Wchodzi <osoba>Ross</osoba>.</didask_tekst>/
+Kto się tam zbliża?</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Ross, nasz than<pe><slowo_obce>than</slowo_obce> (z daw. ang. <slowo_obce>thane</slowo_obce>) --- tytuł szlachecki w daw. Anglii i Szkocji, zbliżony rangą do barona.</pe> waleczny.</wers_cd></strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Jaki w źrenicach jego pośpiech widać!/
+Twarz to człowieka, który wiadomości/
+Przynosi dziwne.
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+ 
+<kwestia><strofa>
+<wers_cd>Boże, strzeż nam króla!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Waleczny thanie, skąd do nas przybywasz?
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Z Fife, wielki królu, gdzie norweska flaga,/
+Miotana wichrem, mrozi naszych serca./
+Sam król norweski, z niezliczoną armią,/
+Przez niewiernego popierany zdrajcę,/
+Thana Cawdoru, bój rozpoczął straszny./
+Lecz nasz waleczny Bellony<pe><slowo_obce>Bellona</slowo_obce> (mit. rzym.) --- bogini wojny; <slowo_obce>małżonek Bellony</slowo_obce> (przen.) --- dzielny wojak.</pe> małżonek,/
+Zbrojny odwagą, stanął z nim się mierzyć/
+Ramię na ramię, szabla przeciw szabli,/
+I dziką jego poskromił odwagę./
+Zwycięstwo przy nas!</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>O szczęście bez granic!</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Sweno, norweski król, błaga o pokój./
+Zanim otrzymał od nas przyzwolenie,/
+Aby pogrzebał swych poległych trupy,/
+Na Kolumbana świętego wprzód wyspie/
+Dziesięć tysięcy talarów nam spłacił.</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Than nas Cawdoru drugi raz nie zdradzi./
+Idź, niech natychmiast głowa jego spadnie,/
+A pozdrów jego tytułem Makbeta!</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+ 
+<kwestia><strofa>
+Spełni się wola króla, mego pana.
+</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Co Cawdor przegrał, Makbeta wygrana. 
+</strofa></kwestia>
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA III</naglowek_scena>
+
+<didaskalia>Step.</didaskalia>
+
+
+
+<didaskalia>Pioruny. --- Wchodzą trzy <osoba>Czarownice</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Gdzie byłaś, siostro?
+</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Zabijałam świnie.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ A ty gdzie?
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Żona majtka<pe><slowo_obce>majtek</slowo_obce> --- w oryg. ang. <slowo_obce>sailor</slowo_obce>: żeglarz.</pe> w swym fartuchu</wers_cd>/
+Miała kasztany; mlaska, mlaska, mlaska!/
+Daj mi, mówiłam. --- Precz stąd, czarownico!/
+Otyłe ścierwo zawołało do mnie./
+Mąż jej na Tygrze płynie do Aleppo,/
+By go dognać, w przetak siędę<pe><slowo_obce>siędę</slowo_obce> --- dziś popr. forma: siądę.</pe>,/
+Bez ogona szczurem będę,/
+Będę deski gryść, gryść, gryść!</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Wiatr ci jeden w pomoc dam.
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Dzięki wam!
+</strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Ja dam drugi.</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Ja mam resztę na usługi,/
+Wiem gdzie, kiedy, wieje jaki,/
+Znam każdego wszystkie szlaki,/
+Jakby na żeglarza karcie./
+Ja wysuszę go jak siano;/
+Ani wieczór, ani rano/
+Sen nie zamknie jego powiek;/
+Jak wyklęty będzie człowiek./
+Miesiące, tygodnie, dnie,/
+Niech więdnie, marnieje, schnie;/
+Choć się barka nie rozpryska,/
+Niech nią wieczna burza ciska!/
+Patrzcie, co mam.
+</strofa></kwestia>
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Pokaż! pokaż!</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Palec majtka, który zginął,/
+Kiedy już do domu płynął.
+</strofa></kwestia>
+ 
+<didaskalia>Bęben za sceną.</didaskalia>
+
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Bębny biją; czas już nam!/
+Makbet tam!
+</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Przeznaczeń siostry, dłoń w dłoni,/
+Posłanki lądów i toni,/
+Tak kołują, krążą tak./
+Trzy te biorę, te trzy ty,/
+Do dziewiątki jesacze trzy./
+Koło czarów zakreślone.</strofa></kwestia>
+
+
+<didaskalia>Wchodzą: <osoba>Makbet</osoba> i <osoba>Banquo</osoba>.</didaskalia>
+
+
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Dnia tak szpetnego i pięknego razem/
+Nie miałem jeszcze.
+</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Do Forres jak daleko?</wers_cd>/
+<begin id="b1379881576522-2260326709"/><motyw id="m1379881576522-2260326709">Czarownica</motyw>Co to za wyschłe i dziwne stworzenia?/
+Nie wyglądają na mieszkańców ziemi,/
+Chociaż są na niej. Mówcie, czy żyjecie?/
+Czy was śmiertelny człowiek pytać może?/
+Zda się, że moje rozumiecie słowa,/
+Każda z was bowiem suchy kładzie palec/
+Na zwiędłe usta. Macie kobiet postać,/
+Lecz brody wasze tak myśleć mi bronią.<end id="e1379881576522-2260326709"/></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Jeśli możecie, mówcie, kto jesteście?
+</strofa></kwestia>
+
+
+<naglowek_osoba><begin id="b1379931926135-3144354499"/><motyw id="m1379931926135-3144354499">Kuszenie, Proroctwo</motyw>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Witaj, Makbecie, witaj, thanie Glamis!</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Witaj, Makbecie, witaj, thanie Cawdor!
+</strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+<kwestia><strofa>Witaj, Makbecie, przyszły witaj królu!</strofa></kwestia>
+
+
+
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Dobry mój panie, dlaczego się wzdrygasz,/
+Lękasz się rzeczy, co brzmi tak rozkosznie?<end id="e1379931926135-3144354499"/>/
+W imię was prawdy zaklinam, powiedzcie,/
+Czy tylko zmysłów jesteście złudzeniem,/
+Czy kształty wasze są rzeczywistością?/
+Kolegę mego godnością dzisiejszą/
+Witacie, razem z wielką przepowiednią/
+Przyszłych dostojeństw, królewskiej nadziei,/
+Tak, że oniemiał, jakby zachwycony./
+Dla mnie milczycie; lecz jeśli możecie/
+Sięgnąć spojrzeniem w przyszłości nasiona,/
+I przepowiedzieć jakie ziarno puści,/
+Przemówcie do mnie, do mnie, co nie proszę/
+O łaskę waszą, jak się nienawiści/
+Waszej nie lękam.</strofa></kwestia>
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Witaj!
+</strofa></kwestia>
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Witaj!
+</strofa></kwestia>
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Witaj!
+</strofa></kwestia>
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Mniejszy, a przecie większy od Makbeta.
+</strofa></kwestia>
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Nie tak szczęśliwy, a przecie szczęśliwy.
+</strofa></kwestia>
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Ty królów spłodzisz, choć nie jesteś królem./
+Witajcie przeto, Makbecie i Banquo!</strofa></kwestia>
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Banquo, Makbecie, witajcie, witajcie!</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>O, jeszcze jedno słowo, ciemne wieszczki!/
+Przez śmierć Sinela jestem thanem Glamis,/
+Lecz jak Cawdoru? Than Cawdoru żyje,/
+Żyje szczęśliwy; żeby królem zostać,/
+To równie wiary przechodzi granice,/
+Jak to, że jestem dziś thanem Cawdoru./
+Mówcie, skąd dziwna wiedza wam ta przyszła?/
+Mówcie, dlaczego na tym dzikim stepie,/
+Tym pozdrowieniem proroczym nasz pochód/
+Zatrzymujecie? Zaklinam was, mówcie!</strofa></kwestia>
+
+
+<didaskalia><begin id="b1379855632149-22473207"/><motyw id="m1379855632149-22473207">Cud, Czary, Żywioły</motyw>(<osoba>Czarownice</osoba> znikają.)</didaskalia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Ziemia, jak woda, ma także swe bańki;/
+To były bańki ziemskie; gdzie zniknęły?
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>W powietrzu; co nam zdało się cielesne,/
+Jak gdyby oddech w wiatr się rozpłynęło./
+Ach, jakbym pragnął, by zostały dłużej!</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Czy to stworzenia były tu istotne,/
+Lub czyśmy jedli zatrute korzonki,/
+Których nasz rozum został niewolnikiem?<end id="e1379855632149-22473207"/></strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Twe dzieci będą królami.
+</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Ty królem.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Thanem Cawdoru wprzódy, czy nie prawda?
+</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Tak jest, to były własne ich wyrazy./
+Kto się przybliża?
+</strofa></kwestia>
+ 
+<didaskalia>Wchodzą: <osoba>Ross</osoba> i <osoba>Angus</osoba>.</didaskalia>
+
+
+ 
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+
+<kwestia><strofa><wers_cd>Król błogą wiadomość</wers_cd>/
+O twych zwycięstwach odebrał, Makbecie;/
+Czytając twoje wśród walki przygody,/
+Niepewny, czy ma wielbić, czy się dziwić,/
+Sam nie wie, jak ma objawić swe czucia,/
+Dumając niemy, przy rozprawy końcu,/
+Widzi cię znowu wśród norweskich pułków,/
+Niestrwożonego własnej szabli dziełem;/
+Co chwila nowe odbiera poselstwa/
+O nowych kształtach potyczki i śmierci;/
+Każdy posłaniec do nóg jego ciska/
+Nowe pochwały dzieł twych bohaterskich,/
+Spełnionych w jego królestwa obronie.</strofa></kwestia>
+
+<naglowek_osoba>ANGUS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Naszego pana dzięki ci przynosim,/
+Nie żeby twoje zasługi zapłacić,/
+Żeby cię tylko prowadzić do niego.</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+A na zadatek świetniejszych zaszczytów/
+Thanem Cawdoru pozdrowić cię kazał./
+Więc cię tytułem witam, thanie, nowym,/
+Jest twoim.
+</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Możeż<pe><slowo_obce>możeż</slowo_obce> --- tu: czy może, czyżby mógł.</pe> diabeł mówić prawdę?</wers_cd></strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Jak to? Wszak jeszcze than Cawdoru żyje,/
+Czemu mnie w odzież stroisz pożyczaną?</strofa></kwestia>
+
+<naglowek_osoba>ANGUS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Żyje ten, który Cawdoru był thanem,/
+Lecz życiu jego sąd grozi surowy,/
+Które utracić zbrodnią swą zasłużył./
+Czy spiski knował z Norwegią otwarte,/
+Czy buntownikom tajemnie pomagał,/
+Czy z dwoma razem wrogami pracował/
+Na zgubę kraju, nie umiem powiedzieć,/
+Lecz dowiedziona zdrada i wyznana/
+Potępia zdrajcę.</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<didaskalia>na stronie</didaskalia>
+
+
+<kwestia><strofa><wers_cd>Glamis, than Cawdoru,</wers_cd>/
+A potem --- potem --- jeszcze tytuł wyższy!/
+<didask_tekst>do <osoba>Rossa</osoba> i <osoba>Angusa</osoba></didask_tekst>/
+Przyjmcie me dzięki!/ <didask_tekst>do <osoba>Banqua</osoba></didask_tekst>/ <wers_cd>Czy się nie spodziewasz,</wers_cd>/
+Że kiedyś dzieci twe królami będą, /
+Gdy mają na to od tych obietnice,/
+Które mi thaństwo Cawdoru przyrzekły?</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Wiara w ich słowa może w thanie Cawdor/
+Rozbudzić także myśli o koronie./
+To dziwna! Nie raz ciemności narzędzia,/
+Żeby do naszej pociągnąć nas zguby,/
+Prawdę nam mówią; chwytają nam dusze/
+Zwodną ponętą uczciwych drobnostek,/
+Aby nas potem popchnąć w ciemną przepaść. ---/
+Kuzynie, słowo.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>na stronie</didaskalia>
+
+ 
+<kwestia><strofa><wers_cd>Dwie ich przepowiednie</wers_cd>/
+Już się spełniły, jak szczęśliwy prolog/
+Do królewskiego w przyszłości dramatu. ---/
+Raz jeszcze dzięki składam wam, panowie! ---/
+<didask_tekst>na stronie</didask_tekst>/ Nadprzyrodzone trzech istot podszepty/
+Złe być nie mogą, nie mogą być dobre./
+Jeśli złe, czemu prawdą zaczynają/
+I pomyślności dają mi zadatek?/
+Jestem Cawdoru thanem. Jeśli dobre,/
+<begin id="b1379856276070-2326013332"/><motyw id="m1379856276070-2326013332">Strach, Pokusa</motyw>Dlaczego ucho nadstawiam pokusom,/
+Na których straszny obraz włos się jeży,/
+Mężne me serce w mych się tłucze piersiach,/
+Z siłą naturze ludzkiej niezwyczajną?/
+Strach mniej jest straszny, mniej ma w sobie grozy/
+W rzeczywistości, niż strach w wyobraźni./
+Myśl, której tylko marzeniem morderstwo,/
+Wstrząsa tak słabą ludzką mą naturą,/
+Że siły duszy mdleją w przypuszczeniach,/
+I nie istnieje tylko to, co nie jest.<end id="e1379856276070-2326013332"/></strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Patrzcie, towarzysz nasz jak zadumany!
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>na stronie</didaskalia>
+
+
+<kwestia><strofa>
+ <begin id="b1379932088281-2480372794"/><motyw id="m1379932088281-2480372794">Los</motyw>Jeśli chce los mój, abym królem został,/
+Bez mej pomocy los zrobi mnie królem.<end id="e1379932088281-2480372794"/>
+</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Zaszczyt dla niego jak nowa jest odzież,/
+Czasu jej trzeba, by przylgła do ciała.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>na stronie</didaskalia>
+
+
+<kwestia><strofa>
+ Niech co chce będzie; czas i sposobności/
+Burz najgroźniejsze znoszą przeciwności.
+</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Makbecie, na twe czekamy rozkazy.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Przebaczcie, proszę, ale mózg mój ciężki/
+Dręczyły sprawy dawno zapomniane./
+Wasze usługi wciągnąłem do księgi,/
+W której codziennie jedną czytam kartę./
+Idźmy do króla. --- Myśl o tym, co zaszło,/
+Przy wolnej chwili, po dobrej rozwadze,/
+Otworzym sobie naszych serc tajniki.</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Chętnie.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Tymczasem dość na tym. Idziemy.</wers_cd></strofa></kwestia>
+
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+
+<naglowek_scena>SCENA IV</naglowek_scena>
+
+
+
+
+
+<didaskalia>Forres. Sala w pałacu.</didaskalia>
+
+
+
+<didaskalia>Przy odgłosie trąb wchodzą: <osoba>król Duncan</osoba>, <osoba>Malcolm</osoba>, <osoba>Donalbain</osoba>,
+<osoba>Lennox</osoba>, Służba.</didaskalia>
+
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Czy egzekucja Cawdora spełniona?/
+Czy komisarze nasi powrócili?</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Jeszcze nie, królu, lecz miałem sposobność/
+Rozmawiać chwilę z świadkiem jego śmierci./
+Na rusztowaniu zdradę swoją wyznał,/
+O twe królewskie błagał przebaczenie,/
+Swój żal serdeczny za zbrodnię objawił./
+Nic piękniejszego nie miał w swoim życiu,/
+Jak chwila, w której z życiem się tym żegnał;/
+Umarł, jak człowiek, co umrzeć się uczył;/
+Skarb swój najdroższy oddał obojętnie,/
+Jak liche cacko.</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>O nie, nie ma sztuki,</wers_cd>/
+Zdolnej na twarzy tajnie myśli czytać:/
+Ja w nim zupełną ufność pokładałem./
+<didask_tekst>Wchodzą: <osoba>Makbet</osoba>, <osoba>Banquo</osoba>, <osoba>Ross</osoba> i <osoba>Angus</osoba>.</didask_tekst>/
+Dzielny kuzynie, grzech mej niewdzięczności/
+Na duszy mojej niby kamień ciężał,/
+<begin id="b1379856902845-433443254"/><motyw id="m1379856902845-433443254">Wdzięczność, Król, Rycerz</motyw>Tak się wysoko wzbiły twe zasługi,/
+Że ich doścignąć nigdy nie wydoła/
+Najszybsze skrzydło monarszej nagrody./
+Jakżebym pragnął, abyś mniej zadłużył!/
+Aby zapłata moja i ma wdzięczność/
+Mogły dorównać wszystkiemu, com dłużny!/
+Teraz mi tylko wyznanie zostało,/
+Że na me długi skarbów mych za mało.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Wierność ma, królu, i me posłuszeństwo/
+Same się płacą, gdy ci mogą służyć./
+Twa rzecz przyjmować nasze powinności,/
+A powinności nasze są dla tronu/
+I dla królestwa jak dzieci i sługi;/
+Gdy robią wszystko, co zdolne są zrobić/
+Dla twej miłości i dla twojej chwały,/
+Tylko należny pełnią obowiązek.<end id="e1379856902845-433443254"/></strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Witaj nam tutaj! Zacząłem cię szczepić,/
+Dołożę pracy, byś z czasem zakwitnął./
+Szlachetny Banquo, i twoje zasługi/
+Równie są wielkie; świat się o nich dowie;/
+Pozwól do moich przycisnąć cię piersi.
+</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Jeśli tam wzrosnę, żniwo jest dla ciebie.
+</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Przepełniająca moje serce radość/
+Chce teraz w kroplach smutku się utaić./
+Synowie, krewni i wy, dostojnicy/
+Najbliżej berła mego postawieni,/
+Wiedzcie, że myślą naszą tron zostawić/
+Pierworodnemu memu Malcolmowi;/
+Dziś go mianuję księciem Cumberlandu./
+Lecz nie samotny ten zostanie honor,/
+Na każdej bowiem zasłudze, jak gwiazdy,/
+Mojej wdzięczności oznaki zaświecą./
+Teraz, Makbecie, śpieszmy do Inverness,/
+Przyjaźni naszej silniej ścisnąć węzeł.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Każda godzina jest dla mnie straconą,/
+Której nie mogę służbie twej poświęcić./
+Sam będę posłem twojego przybycia,/
+Sam serce żony wieścią tą pocieszę./
+A teraz, składam pokorne me służby.</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Zacny Cawdorze!
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>na stronie</didaskalia>
+
+
+<kwestia><strofa><wers_cd>Książę Cumberlandu!</wers_cd>/
+Ten kamień, który zawala mi drogę,/
+Przeskoczyć muszę, jeśli upaść nie chcę./
+Przymrużcie, gwiazdy, ogniste źrenice,/
+Na czarne duszy mojej tajemnice!/
+Niechaj mej ręki oko me nie widzi!/
+Niech się czyn spełni, którym wzrok się brzydzi!</strofa></kwestia>
+
+
+<didaskalia>Wychodzi.</didaskalia>
+
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Tak jest, mój Banquo, wielka jego dzielność;/
+Jego pochwała jest moim pokarmem,/
+Jest mym bankietem. Śpieszmy teraz za nim,/
+Już nas troskliwość jego wyprzedziła,/
+Aby uprzejme dać nam powitanie./
+Nieporównanym Makbet jest kuzynem.
+</strofa></kwestia>
+
+
+<didaskalia>Wychodzą przy odgłosie trąb.</didaskalia>
+
+
+<naglowek_scena>SCENA V</naglowek_scena>
+
+<didaskalia>Inverness. Sala w zamku Makbeta.</didaskalia>
+
+
+
+<didaskalia>Wchodzi <osoba>Lady Makbet</osoba> czytając list.</didaskalia>
+
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>czyta</didaskalia>
+
+
+<dlugi_cytat>
+ 
+<kwestia><akap>,,Spotkały mnie w dniu zwycięstwa; a bieg wypadków przekonał mnie, że więcej w nich jest niż
+śmiertelna wiedza. Gdy pałałem żądzą pytania się
+o więcej, rozpłynęły się w powietrzu i zniknęły. Stałem jeszcze zachwycony cudownym zjawiskiem, gdy
+przybyli posłańcy od króla i pozdrowili mnie thanem
+Cawdoru, tytuł, którym przed chwilą powitały mnie
+siostry przeznaczeń, odraczając mnie do przyszłości
+przepowiednią: Przyszły witaj królu! Uznałem za
+stosowne przesłać ci tę wiadomość, najdroższa towarzyszko mojej wielkości, abyś nie straciła należnej
+ci cząstki wesela nieświadomością, jaka przyobiecana
+ci jest wielkość. Zachowaj to w twoim sercu i bądź
+mi zdrowa."</akap></kwestia>
+
+</dlugi_cytat>
+
+
+<kwestia><strofa>Jesteś już thanem Glamis i Cawdoru,/
+I tym zostaniesz, co ci obiecane ---/
+Tylko, że twojej lękam się natury,/
+Zbyt jest tkliwości ludzkiej pełna mleka,/
+Aby najkrótszą pogoniła drogą./
+Być wielkim chciałbyś, ambicję masz w sercu,/
+Ale ci słabość stoi na przeszkodzie;/
+Chcesz zajść wysoko, ale chcesz uczciwie,/
+Nie chcesz szachrować, a wygrać chcesz grzesznie;/
+To, czego pragniesz, woła ci, Glamisie:/
+,,To zrobić musisz, jeśli chcesz mnie posiąść,/
+A czego raczej wykonać się lękasz,/
+Niż żebyś pragnął, aby się nie stało"./
+Spiesz się, przybywaj! abym mego ducha/
+W twe uszy wlała, moich słów potęgą/
+Zdołała wszystkie zażegnać zawady,/
+Które od złotej dzielą cię obręczy,/
+Twojemu czołu, zda się, obiecanej/
+Wolą przeznaczeń i nadprzyrodzonych/
+Potęg pomocą./ <didask_tekst>Wchodzi <osoba>Sługa</osoba>.</didask_tekst>/ <wers_cd>Co za wieść przynosisz?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Dziś wieczór, pani, król tutaj przybywa. 
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czyś rozum stracił? Czy pan twój z nim nie jest?/
+Gdyby tak było, przysłałby wiadomość,/
+Przygotowania nakazał należne.
+</strofa></kwestia>
+
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Wierzaj mi, pani, nasz than niedaleko,/
+Jeden go sługa na chwile wyprzedził,/
+A bez tchu prawie i na pół umarły/
+Ledwo potrafił spełnić swe poselstwo.</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Idź go pokrzepić; wielkie przyniósł wieści./
+<didask_tekst><osoba>Sługa</osoba> wychodzi.</didask_tekst>/
+Kruk nawet ochrypł, który pod me blanki/
+Kracze fatalne przybycie Duncana./
+<begin id="b1379857919310-2194006230"/><motyw id="m1379857919310-2194006230">Modlitwa, Morderstwo</motyw>Duchy, morderczych towarzysze myśli,/
+Do mnie tu! duszę moją odniewieśćcie,/
+A najczarniejszym jadem okrucieństwa/
+Od stóp do głowy napełńcie mnie całą!/
+Krew moją zgęśćcie, zamknijcie szczeliny,/
+Którymi wkraść by mogła się zgryzota,/
+By żadnych ludzkich uczuć nawiedzenie/
+Mym nie zachwiało okrutnym zamiarem,/
+Nie rozdzieliło myśli od spełnienia!/
+Wejdźcie w pierś moją, mleko w żółć przemieńcie,/
+Morderstwa duchy, gdziekolwiek w przestrzeniach/
+Czatuje wasza istność niewidoma/
+Na złe natury! Przybądź, nocy ciemna,/
+W najgęstsze dymy piekła owinięta!/
+By nóż nie dojrzał rany, którą zada,/
+By przez zasłonę nie przejrzało niebo,/
+Nie zawołało: stój! stój!<end id="e1379857919310-2194006230"/>/ <didask_tekst>Wchodzi <osoba>Makbet</osoba>.</didask_tekst>/
+<wers_cd>Wielki Glamis,</wers_cd>/
+Szlachetny Cawdor! A większy od obu/
+Przez pozdrowienie trzecie, niespełnione!/
+List twój mnie uniósł za teraźniejszości/
+Ciemne granice i w chwili obecnej/
+Już czuję przyszłość.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Duncan, droga żono,</wers_cd>/
+Dziś tu przybywa.
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>A kiedy odjedzie?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Jutro, jak myśli.
+</strofa></kwestia>
+
+
+<naglowek_osoba><begin id="b1379932143182-2069154154"/><motyw id="m1379932143182-2069154154">Kuszenie</motyw>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Nigdy tego jutra</wers_cd>/
+Słońce nie ujrzy!/
+Twoje oblicze jest podobne księdze,/
+Treść której dziwną czytać mogą ludzie./
+By świat oszukać, bądź jak świat jest cały,/
+Nieś pozdrowienie w oku, ręce, ustach,/
+I niewinnego miej pozory kwiatka,/
+Ale bądź wężem, co się pod nim kryje./
+Ten, co przybywa, znajdzie tu przyjęcie;/
+Lecz wielką nocy tej sprawę mnie zostaw,/
+Która na wszystkie dnie potem i noce/
+Całej nas robi ziemi tej panami.
+<end id="e1379932143182-2069154154"/></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Pomówim o tym.
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Wypogódź spojrzenia;</wers_cd>/
+Trwogę ten zdradza, co oblicze zmienia./
+Mnie zostaw resztę.
+</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA VI</naglowek_scena>
+
+<didaskalia>Inverness. Przed zamkiem.</didaskalia>
+
+
+
+<didaskalia>Oboje. Domownicy <osoba>Makbeta</osoba> stoją zebrani pod bramą. Wchodzą:
+<osoba>Duncan</osoba>, <osoba>Malcolm</osoba>, <osoba>Donalbain</osoba>, <osoba>Banquo</osoba>, <osoba>Lennox</osoba>, <osoba>Macduff</osoba><pe><slowo_obce>Macduff</slowo_obce> --- w innych polskich przekładach częstsza pisownia: Makduf.</pe>, <osoba>Ross</osoba>,
+<osoba>Angus</osoba>, Służba.</didaskalia>
+
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Zamek ten w pięknej leży okolicy;/
+Łagodny wietrzyk słodkim swoim tchnieniem/
+Wdzięcznie przenika zachwycone zmysły.</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ I ten gość lata, kościołów mieszkanka,/
+Jaskółka świadczy miłą obecnością,/
+Że oddech niebios przynosi tu wonie./
+Na każdym fryzie, każdym kapitelu,/
+Każdej wystawie, byle jakim kątku,/
+Ptak ten zawiesił płodną swą kolebkę./
+Zauważałem, że tam, gdzie jaskółka/
+Swe gniazdo lepi, czyste jest powietrze.
+</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Lady Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Patrz! Patrz! Dostojna nasza gospodyni!/
+Choć miłość, która w trop za nami leci,/
+Dręczy nas nieraz, wdzięczność za nią mamy,/
+Zawsze to miłość; to uczy cię, pani,/
+Że powinnością twą Boga jest prosić,/
+By nam zapłacił za wszystkie kłopoty,/
+Które ci dajem.</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Wszystkie nasze służby,</wers_cd>/
+Choć dwakroć, choćby czterykroć zwiększone,/
+Lichą są pracą za wielkie honory,/
+Którymi dom nasz raczyłeś obsypać./
+Za wszystkie dawne i nowe zaszczyty,/
+Dom nasz się zmieni, królu, na kaplicę,/
+W której się modlić będziemy za ciebie.
+</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Gdzie than Cawdoru? Pędziliśmy za nim,/
+Chcąc sami donieść o jego przybyciu;/
+Lepszy zeń jeździec; wierna jego miłość/
+Była ostrogą, która mu pomogła,/
+Że nas wyprzedził i przed nami stanął./
+Szlachetna, piękna gospodyni nasza,/
+Na tę noc gośćmi twoimi jesteśmy.
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Sługi twe, królu, swój dom, swoje mienie,/
+I siebie samych mają jak depozyt,/
+Gotowi zawsze, na pierwszy twój rozkaz,/
+Rachunek złożyć i własność twą zwrócić.
+</strofa></kwestia>
+
+
+<naglowek_osoba>KRÓL DUNCAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Daj mi twą rękę, pani, racz prowadzić/
+Do gospodarza; kochamy go z serca,/
+Nigdy go nasza nie opuści łaska./
+Więc idźmy, proszę, piękna gospodyni.</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+
+<naglowek_scena>SCENA VII</naglowek_scena>
+
+
+
+
+
+<didaskalia>Inverness. Sala w zamku.</didaskalia>
+
+
+
+<didaskalia>Oboje i pochodnie. Przechodzą scenę Krojczy i tłum Sług
+z półmiskami. Wchodzi <osoba>Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gdyby z uczynkiem skończyło się wszystko,/
+Byłoby dobrze czyn wykonać spiesznie;/
+Gdyby morderstwo, swe niszcząc następstwa,/
+Pomyślność śmiercią jego nam złowiło;/
+Gdyby wszystkiego ten cios był tu końcem,/
+Choćby tu tylko, tu, na tym wybrzeżu/
+Ziemskiego życia: bez trwogi bym przyjął/
+Wszystko, co może za grobem mnie czekać;/
+Lecz w takich sprawach zawsze tu sąd mamy;/
+Krwawa nauka, przez nas samych dana,/
+Na mistrza swego odwraca się zgubę;/
+Bezstronną dłonią sprawiedliwość zbliża/
+<begin id="b1379865552383-2257237438"/><motyw id="m1379865552383-2257237438">Sumienie, Zwątpienie</motyw>Zatruty przez nas kielich do ust naszych./
+Nad nim tu dzisiaj podwójna straż czuwa:/
+Naprzód, jak krewny jego i poddany/
+Dwa mam powody wzdrygać się przed czynem;/
+Potem, jak jego gospodarz, winienem/
+Drzwi jego izby przed mordercą zamknąć,/
+Nie sam na głowę jego nóż podnosić./
+A potem, Duncan tak łagodnie władał,/
+Na tronie swoim posadził cnót tyle,/
+Że wszystkie, jakby chór świętych aniołów,/
+Głosem od trąby grzmotu potężniejszym,/
+Przeciw tej czarnej odezwą się zbrodni;/
+Litość, jak nagie, nowo narodzone/
+Na skrzydłach burzy lecące niemowlę,/
+Lub jak niebieski posłaniec, cherubin,/
+Na niewidomym powietrznym rumaku,/
+W każde by oko czyn dmuchała krwawy,/
+I w łez potoku zatopiła wichry./
+Jedyną moich zamiarów ostrogą/
+Moja ambicja, własną pochopnością/
+Za szranki celów swych przeskakująca.<end id="e1379865552383-2257237438"/>/
+<didask_tekst>Wchodzi <osoba>Lady Makbet</osoba>.</didask_tekst>/
+Co tam?</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Już prawie skończył swą wieczerzę.</wers_cd>/
+Czemu tak nagle izbę opuściłeś?</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Czy pytał o mnie?
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Czy nie wiesz, że pytał?</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Dalszego kroku w sprawie tej nie zrobim./
+Tyle niedawno zlał na mnie honorów;/
+Na złotąm chwałę u ludzi zarobił,/
+Chciałbym ją w całej dziś świetności nosić,/
+A nie tak prędko z pogardą odrzucać.</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Alboż pijaną była ta nadzieja,/
+W którąś się ubrał? Czyli spała dotąd?/
+A rozbudzona blednieje z przestrachu/
+Na myśl, tak skrzętnie wprzód pielęgnowaną?/
+Tak samo odtąd miłość twoją cenię./
+Czyliż się lękasz w twoim być uczynku/
+I rezolucji, czym jesteś w twej żądzy?/
+Chcesz mieć, co krasą zdaje ci się życia,/
+A razem w własnym uznaniu być tchórzem,/
+Za ,,chciałbym" w pogoń wysyłać ,,lecz nie śmiem",/
+Jak kot w przysłowiu.<pe><slowo_obce>być tchórzem (...) jak kot w przysłowiu</slowo_obce> --- nawiązanie do powiedzenia o kocie, który chciałby zjeść rybę, ale boi się zamoczyć.</pe> </strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>O cicho, skończ, proszę!</wers_cd>/
+Śmiem wszystko zrobić, co mężom przystoi,/
+A kto śmie więcej, ten nie jest człowiekiem.</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Jakież to bydlę było ci podnietą,/
+Żeś mi się z twoim otworzył zamiarem?/
+Gdyś śmiał to zrobić, wtedy byłeś mężem;/
+Bądź więcej, niźli byłeś, będziesz razem/
+I więcej mężem. Ni ci czas, ni miejsce/
+Sprzyjały ongi, sam chciałeś je stworzyć;/
+Dziś przyszły same, a ty serce tracisz?/
+<begin id="b1379864562220-3053836270"/><motyw id="m1379864562220-3053836270">Przysięga</motyw>Karmiłam dzieci i wiem, jak jest drogie/
+Przy matki łonie wiszące niemowlę,/
+A przecie, gdy się uśmiechało do mnie,/
+Pierś bym wyrwała z dziąsł<pe><slowo_obce>dziąsł</slowo_obce> --- dziś popr. forma D. lm: dziąseł.</pe> jego bezzębnych,/
+A mózgiem jego zbryzgałabym kamień,/
+Gdybym przysięgła, tak jak ty przysiągłeś!<end id="e1379864562220-3053836270"/></strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gdy się nie uda zamiar ---</strofa></kwestia>
+
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>To nie uda!</wers_cd>/
+Dośrubuj męstwo do ostatnich gwintów,/
+A rzecz się uda. Skoro Duncan zaśnie ---/
+Męcząca podróż sen mu ześle łatwy ---/
+Dwóch jego dworzan tak winem upoję,/
+Że pamięć wszelka, ta mózgu strażnica,/
+W dym się ulotni, siedlisko rozumu/
+W alembik przejdzie; kiedy w śnie zwierzęcym,/
+Jak gdyby w śmierci, natura ich legnie,/
+Czegóż z Duncanem nie potrafim zrobić?/
+Trudnoż nam będzie na pijanych dworzan/
+Naszego dzieła całą zwalić winę?</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><begin id="b1379864647374-3059180450"/><motyw id="m1379864647374-3059180450">Kobieta, Mężczyzna, Odwaga</motyw>Ródź tylko synów! Twój hart nieugięty/
+Mężów jedynie powinien kształtować!<end id="e1379864647374-3059180450"/>/
+Naszemu słowu czyż świat nie uwierzy,/
+Gdy krwią pobroczym izby jego stróżów,/
+Do czynu własnej broni ich użyjem,/
+Że to ich sprawa?</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Kto by się odważył</wers_cd>/
+Inaczej myśleć, gdy krzyki usłyszy/
+Boleści naszej nad Duncana śmiercią?</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Postanowiłem. Do strasznego czynu/
+Przywołam wszystkie duszy mej potęgi./
+Idźmy pozorem pięknym zwodzić gości,/
+Serc kłamstwo ukryć w twarzy kłamliwości!</strofa></kwestia>
+
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+
+
+<naglowek_akt>AKT DRUGI</naglowek_akt>
+
+
+
+
+
+
+
+
+<naglowek_scena>SCENA I</naglowek_scena>
+
+<didaskalia>Inverness. Dziedziniec zamkowy.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Banquo</osoba> i <osoba>Fleance</osoba>, przed nimi <osoba>Sługa</osoba> z pochodnią.</didaskalia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jak noc daleko?
+</strofa></kwestia>
+
+<naglowek_osoba>FLEANCE</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Już księżyc się schował,</wers_cd>/
+Lecz nie słyszałem bijącej godziny.
+</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Księżyc zachodzi dziś koło północy.
+</strofa></kwestia>
+
+<naglowek_osoba>FLEANCE</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Lecz ja bym myślał, ojcze, że jest później.</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Weź miecz mój. --- Niebo, myślę, przez oszczędność/
+Wszystkie swe lampy zgasiło. --- I to weź./
+Senność, jak ołów, cięży mi na oczach,/
+A spać bym nie chciał. Litosne potęgi,/
+Brońcie mnie, proszę, od myśli przeklętych,/
+Którym natura we śnie daje przystęp! ---/
+Daj mi miecz./ <didask_tekst>Wchodzi <osoba>Makbet</osoba> i <osoba>Sługa</osoba> z pochodnią.</didask_tekst>/
+<wers_cd>Kto tam?</wers_cd></strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Przyjaciel.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Co, panie,</wers_cd>/
+Jeszcze nie w łóżku? Król spać się położył./
+Dziś był nadzwyczaj dobrego humoru,/
+Sługom twym drogie rozdał podarunki,/
+A ten diament twej posyła żonie,/
+Najuprzejmiejszej swojej gospodyni./
+Pełny radości wszedł do swej komnaty.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gościnność nasza nieprzygotowana/
+Była koniecznych niedostatków sługą,/
+A chęciom naszym nie mogła wystarczyć.</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Wszystko jest dobrze. --- Miałem sen tej nocy/
+O trzech przeznaczeń siostrach; co do ciebie,/
+Słowa ich trochę zawierały prawdy.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Nie myślę o nich. Później jednakowo,/
+Jeśli sposobna nadarzy się pora,/
+Chciałbym słów kilka w sprawie tej powiedzieć,/
+Gdybyś mnie zechciał słuchać.
+</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Każdej chwili.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gdy me podzielisz zdanie, a czas przyjdzie,/
+Rzecz by ci mogła przysporzyć honoru.</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Bylem nic z tego, co mam, nie uronił,/
+Pragnąc przysporzyć, bylem mógł zachować/
+Sumienie czyste i wiarę bez skazy,/
+Posłucham rady.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Tymczasem, dobranoc!</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Dzięki! Racz przyjąć wzajemne życzenie</strofa></kwestia>
+
+<didaskalia>Wychodzi.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<kwestia><strofa>Idź, powiedz pani, że skoro gotowy/
+Będzie mój napój, niech mi da znać dzwonkiem./
+<didask_tekst>Wychodzi <osoba>Sługa</osoba>.</didask_tekst>/
+Czy to jest sztylet, co przede mną błyszczy,/
+Zwrócony do mej dłoni rękojeścią?/
+Przyjdź, niech cię chwycę! Chociaż cię nie trzymam,/
+Ciągle cię widzę. O widmo fatalne,/
+Czy dotykaniu nie jesteś przystępne,/
+Tak jak widzeniu? Lub czy jesteś tylko/
+Sztyletem myśli, ułudnym zjawiskiem,/
+Rozpalonego mózgu czczym stworzeniem?/
+Widzę cię jednak w dotykalnym kształcie/
+Jak sztylet, który z pochwy tej wyciągam./
+Ty drogę, którą miałem iść, wskazujesz/
+Tam, gdziem miał użyć takiego narzędzia./
+Oczy me innych zmysłów są igraszką,/
+Lub mi od wszystkich innych służą wierniej./
+Ciągle cię widzę; na twej rękojeści/
+I twym brzeszczocie widzę krwi kropelki,/
+Których przed chwilą jeszcze tam nie było./
+Wszystko to mara! --- Krwawe przedsięwzięcie/
+Takie mym oczom przedstawia widziadła./
+Teraz pół świata zdaje się umarło,/
+Sen pod firanką dręczą złe marzenia,/
+Hekacie<pe><slowo_obce>Hekate</slowo_obce> (mit. gr.) --- bogini magii, ciemności i zjaw.</pe> składa guślarka ofiary,/
+A mord wychudły, zbudzony przez wilka,/
+Swojego stróża, co przeciągłym wyciem/
+Hasło mu daje, do swojego celu/
+Jak duch się skrada, krokiem Tarkwiniusza/
+Gwałt knującego. --- Ziemio nieruchoma,/
+Nie patrz, gdzie zmierzam, stąpań mych nie słuchaj!/
+By twe kamienie nawet nie zdradziły/
+Gdziem jest, gdzie idę, nie odarły czasu/
+Z tej groźnej ciszy, co mu tak przystoi./
+On żyje jeszcze, a ja tylko grożę,/
+Chłodem słów moich ogień czynu mrożę./
+<didask_tekst>Słychać dzwonek.</didask_tekst>/
+To znak mój; idę, dzwonek na mnie woła./
+Niech dzwon ten, królu, twych snów nie przerywa:/
+On cię do piekła lub do raju wzywa.</strofa></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+<naglowek_scena>SCENA II</naglowek_scena>
+
+<didaskalia>Tamże.</didaskalia>
+
+
+
+<didaskalia>Wchodzi <osoba>lady Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Mnie to ośmiela, co ich upoiło,/
+A co ich gasi, mnie ognia dodaje./
+Cicho! Co słyszę? Ha, to puszczyk woła/
+Złowróżbnym głosem fatalne dobranoc. ---/
+Teraz czyn spełnia --- drzwi stoją otworem,/
+Dworzanie chrapiąc szydzą z powinności,/
+Bo tak ich napój zaprawiłam dzielnie,/
+Że śmierć z naturą spiera się, czy żyją,/
+Czyli<pe><slowo_obce>czyli</slowo_obce> (tu daw.) --- czy, czy też.</pe> umarli.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>za sceną</didaskalia>
+
+
+<kwestia><strofa>Kto tam? Co tam? Hola!</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Przebóg! Drżę cała, by się nie zbudzili;/
+Rzecz niespełniona; zamiar, nie uczynek,/
+Zgubą jest naszą. Cicho! --- Ich sztylety/
+Tak położyłam, że nie mógł ich chybić./
+Gdyby tak we śnie do mojego ojca/
+Nie był podobny, ja bym rzecz spełniła./
+Mój mąż!</strofa></kwestia>
+
+<didaskalia>Wchodzi <osoba>Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Spełniłem. --- Nie słyszałaś krzyku?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Hukania sowy i świerszczów ćwierkanie./
+Czy nie mówiłeś?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Kiedy?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Teraz.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Schodząc?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Tak jest.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Słuchajmy! --- Kto śpi w drugiej izbie?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Donalbain.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>patrząc na swoje ręce</didaskalia>
+
+
+<kwestia><strofa>
+ <wers_cd>Jakże bolesny to widok!</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Szaleństwem mówić: bolesny to widok!
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Z dwóch jego stróżów jeden śmiał się we śnie,/
+Drugi ,,mord!" wrzasnął; zbudzili się wzajem;/
+Milcząc słuchałem; mruknęli modlitwę/
+I znów usnęli.</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Los ich nierozdzielny.</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><begin id="b1379928537214-2419323082"/><motyw id="m1379928537214-2419323082">Modlitwa, Zbrodniarz</motyw>Jeden zawołał: ,,błogosław nam Boże!"/
+A drugi: ,,Amen!", jakby mnie widzieli/
+Z tą kata ręką. Słuchając ich trwogi,/
+Do ich: ,,błogosław nam Boże" nie mogłem:/
+,,Amen" dorzucić.</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Nie myśl o tym dłużej!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Lecz czemu: ,,Amen" wymówić nie mogłem?/
+Błogosławieństwa tak potrzebowałem,/
+A przecie: ,,Amen" uwięzło mi w gardle!</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>O takich sprawach myśleć tak nie trzeba;/
+Myśl taka zdolna odebrać nam rozum.<end id="e1379928537214-2419323082"/></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Zda się, żem słyszał głos: ,,nie zaśniesz więcej!/
+Makbet sen zabił, zabił sen niewinny,/
+Sen, co rozplata trosk zwikłany motek,/
+Śmierć dnia każdego, ciężkiej pracy kąpiel,/
+Ożywczy balsam utrapionej myśli,/
+Wielkiej natury drugie ludziom danie,/
+Przysmak najlepszy biesiady żywota".</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Co chcesz powiedzieć?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd><begin id="b1379866956439-1590900967"/><motyw id="m1379866956439-1590900967">Wyrzuty sumienia</motyw>Ciągle do mnie woła,</wers_cd>/
+Wszędzie głos słyszę: ,,Już nie uśniesz więcej!/
+Glamis sen zabił i dlatego Cawdor/
+Nie uśnie więcej, Makbet spać nie będzie!"</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Któż to tak woła? Co, dostojny thanie,/
+Do tegoż stopnia hart duszy osłabiasz,/
+Że słuchasz mózgu chorego podszeptów? ---/
+Weź trochę wody, i idź z twojej dłoni/
+Omyj to szpetne świadectwo co prędzej./
+Po co przyniosłeś stamtąd te sztylety?/
+Tam być powinny --- odnieś je na miejsce,/
+A śpiących dworzan krwią pomaż oblicza.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nie, tam nie wrócę, i myśleć się lękam/
+O tym, com zrobił, a znów spojrzeć na to/
+Nie mam odwagi.</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Mężu słabej woli!</wers_cd>/
+Daj mi sztylety, śpiący i umarli/
+Są jak obrazy; dziecko tylko straszy/
+Czart malowany. Jeśli krew nie zaschła,/
+Sług jego śpiących twarze nią pozłocę,/
+Bo na nich musim zwalić podejrzenie.
+<end id="e1379866956439-1590900967"/></strofa></kwestia>
+
+
+<didaskalia>Wychodzi. --- Stukanie za sceną.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Kto to być może? Co się ze mną stało,/
+Że lada szelest trwogą mnie przeraża?/
+Co to za ręka? Oczy mi wydziera!/
+Czy wszystkie morza wielkiego Neptuna/
+Krew tę z mej ręki obmyć będą w stanie?/
+Ach nie! Ta ręka raczej swą purpurą/
+Mórz nieskończonych wody poczerwieni,/
+Zielone prądy w krwiste zmieni fale.</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>lady Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>I moje ręce mają twoich farbę,/
+Lecz bym się wstydu pokryła rumieńcem,/
+Gdyby me serce było równie białe./ <didask_tekst>Stukanie.</didask_tekst>/
+Do południowej bramy ktoś tam stuka,/
+Czas już do naszej schronić się komnaty./
+Czyn nasz omyje kilka wody kropli;/
+Patrz, jak rzecz łatwa! Widzę, że cię męstwo/
+Odbiegło w drodze. Słuchaj, znów stukanie!/
+<didask_tekst>Stukanie.</didask_tekst>/
+Weź nocną szatę, aby nie poznano,/
+Żeśmy czuwali, jeśli nas wywoła/
+Konieczność jaka. W twoich tylko myślach/
+Nie gub się marnie.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Wiedzieć, co zrobiłem!</wers_cd>/
+Byłoby lepiej nie wiedzieć, że jestem./ <didask_tekst>Stukanie.</didask_tekst>/
+Obudź więc twoim stukaniem Duncana!/
+Gdybyś obudził!</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA III</naglowek_scena>
+
+<didaskalia>Tamże.</didaskalia>
+
+
+
+<didaskalia>Wchodzi <osoba>Odźwierny</osoba>. Stukanie za sceną.</didaskalia>
+
+
+<naglowek_osoba>ODŹWIERNY</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>To mi się nazywa stukanie! Gdyby człowiek był
+odźwiernym piekielnej bramy, dobrze by musiał obracać kluczem. <didask_tekst>Stukanie.</didask_tekst> Stuk! stuk! stuk! Kto tam,
+w imię Belzebuba? To dzierżawca, który się powiesił, widząc, że będzie urodzaj; przybywasz w samą
+porę; zaopatrz się tylko w serwety, bo weźmiesz tu
+za to na dobre poty. <didask_tekst>Stukanie.</didask_tekst> Stuk! stuk! stuk!
+Kto tam, w imię drugiego diabła? Na uczciwość, to
+kazuista, gotów przysiądz na obie ważki przeciw
+każdej ważce, który się niemało zdrad dopuścił przez
+miłość Boga, ale nie mógł dwuznacznikiem wcisnąć
+się do nieba. O, wejdź, kazuisto! <didask_tekst>Stukanie.</didask_tekst> Stuk!
+stuk! stuk! Kto tam? A, to przychodzi angielski krawiec za skradzione sukno z francuskich spodni; wejdź,
+panie krawcze, nie trudno ci tu będzie zagrzać duszę
+do twojego żelazka. <didask_tekst>Stukanie.</didask_tekst> Stuk! stuk! Ani chwili
+spoczynku! Kto tam? Ale tu za zimno trochę na piekło. Nie chcę być dłużej diabelskim odźwiernym.
+Miałem zamiar wpuścić tu z każdej profesji jednego,
+co pędzi kwiecistą drogą na wieczne sobótki. <didask_tekst>Stukanie.</didask_tekst> Zaraz, zaraz! A proszę nie zapominać o odźwiernym!</akap></kwestia>
+ 
+<didaskalia>Otwiera bramę. Wchodzą: <osoba>Macduff</osoba> i <osoba>Lennox</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czyś spać tak późno poszedł, przyjacielu,/
+Żeś wstał tak późno?
+</strofa></kwestia>
+
+
+<naglowek_osoba>ODŹWIERNY</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Prawda, panie, żeśmy pili, aż drugi kur zapiał; a trunek, panie, wielkim jest sprawcą trzech rzeczy.</akap></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap><begin id="b1379867537765-262414407"/><motyw id="m1379867537765-262414407">Pijaństwo</motyw>Jakich to trzech rzeczy mianowicie sprawcą jest trunek?</akap></kwestia>
+
+
+<naglowek_osoba>ODŹWIERNY</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Czerwonego nosa, panie, snu i wody. Wszeteczeństwo, panie, trunek sprawia i nie sprawia: daje chętkę, ale odbiera możność. Tak więc, panie, można by
+nazwać trunek dwulicznikiem wszeteczeństwa: stwarza je i niszczy; budzi je i odpędza; zachęca i odstrasza; woła do gotowości i zdradza, na domiar durzy je snem dwulicznym, a zadawszy mu kłamstwo,
+opuszcza je.</akap></kwestia>
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+<kwestia><strofa>Myślę, że trunek zadał ci to kłamstwo tej nocy.<end id="e1379867537765-262414407"/></strofa></kwestia>
+
+<naglowek_osoba>ODŹWIERNY</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Tak jest, panie, przez samo gardło; ale zapłaciłem mu
+za to, i zdaje mi się, że byłem za silny dla niego, bo
+choć mnie zwalił z nóg na chwilę, potrafiłem się go
+pozbyć.</akap></kwestia>
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+<kwestia><strofa>Czy pan twój wstał już? --- Nasze go stukanie/
+Zbudziło widzę, bo oto nadchodzi.</strofa></kwestia>
+ 
+<didaskalia>Wchodzi <osoba>Makbet</osoba>.</didaskalia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Dzień dobry, panie!
+</strofa></kwestia>
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+<kwestia><strofa>
+<wers_cd>Dzień dobry wam obu!</wers_cd>
+</strofa></kwestia>
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+<kwestia><strofa>
+Dostojny panie, czy król już się zbudził?
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jeszcze nie.
+</strofa></kwestia>
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+<kwestia><strofa>
+<wers_cd>Rano kazał mi się stawić,</wers_cd>/
+Boję się, żebym nie przybył za późno.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Więc cię do jego izby poprowadzę.
+</strofa></kwestia>
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+<kwestia><strofa>
+Wiem, że to miły jest dla ciebie kłopot,/
+Choć zawsze kłopot.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Praca, którą lubim,</wers_cd>/
+Leczy swój kłopot. To drzwi jego izby.
+</strofa></kwestia>
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+<kwestia><strofa>Wejść się odważę, to moja powinność.</strofa></kwestia>
+
+<didaskalia>Wychodzi.</didaskalia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Czy król odjeżdża dziś?
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Tak zapowiedział.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Noc była straszna; gdzieśmy nocowali,/
+Wiatr zwalił komin, a jak powiadają,/
+W powietrzu straszne słychać było jęki,/
+Krzyki, konania i głosy prorocze,/
+Groźnym akcentem zapowiadające/
+Łuny pożarów i zamęt wypadków,/
+Świeżo wylęgłych na dni naszych klęskę./
+Noc całą puszczyk hukał przeraźliwie,/
+I ziemia nawet drżeć miała z przestrachu.
+</strofa></kwestia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Noc była straszna!</strofa></kwestia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Młoda moja pamięć</wers_cd>/
+Nie przypomina sobie równych dziwów.
+</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Macduff</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ O zgrozo! zgrozo! ani cię potrafi/
+Język wysłowić, ani serce pojąć!
+</strofa></kwestia>
+
+
+<naglowek_osoba>MECBETH I LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <begin id="b1379867758829-2686592693"/><motyw id="m1379867758829-2686592693">Morderstwo</motyw>Cóż się więc stało?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Swego arcydzieła</wers_cd>/
+Zamęt dokonał. Kościół namaszczony/
+Mord świętokradzki strzaskał, i z świątyni/
+Żywota lampę wykradł gorejącą.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Co mówisz? Życie?</strofa></kwestia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Mówisz, króla życie?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Wejdźcie do izby, tam wasze źrenice/
+Widok Gorgony nowej niech oślepi!/
+Nie wymagajcie słów więcej ode mnie!/
+Patrzcie, a potem mówcie sami!/
+<didask_tekst>Wychodzą: <osoba>Makbet</osoba> i <osoba>Lennox</osoba>.</didask_tekst>/ <wers_cd>Wstańcie!</wers_cd>/
+Zbudźcie się! Wstańcie! Na gwałt bijcie w dzwony!/
+Morderstwo! Zdrada! Banquo, Donalbainie,/
+Malcolmie, wstańcie! Śmierci wizerunek,/
+Sen otrząśnijcie! Na śmierć patrzcie samą!<end id="e1379867758829-2686592693"/>/
+Wstańcie! Zobaczcie sądnego dnia obraz!/
+Malcolmie, Banquo, jak z grobu powstańcie,/
+I jak umarłych duchy się przybliżcie,/
+Aby tak wielkiej przypatrzyć się grozie!/
+Uderzcie w dzwony!</strofa></kwestia>
+ 
+<didaskalia>Dzwonią. Wchodzi <osoba>lady Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>I cóż się to stało,</wers_cd>/
+Że jakby trąby przeraźliwej hasło/
+Całego domu śpiących tu zwołuje?/
+Mów! Mów!</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>O pani, czułe twoje serce</wers_cd>/
+Nie jest do takiej stworzone boleści./
+W kobiety ucho takie słowo rzucić,/
+Jest to ją zabić!/ <didask_tekst>Wchodzi <osoba>Banquo</osoba>.</didask_tekst>/
+<wers_cd>O Banquo! o Banquo!</wers_cd>/
+Nasz król zabity!</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Przebóg, w naszym domu!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gdzie bądź, czyn straszny! O drogi Macduffie,/
+Odwołaj słowo, powiedz, że zmyślone!</strofa></kwestia>
+
+
+<didaskalia>Wchodzą: <osoba>Makbet</osoba> i <osoba>Lennox</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czemu godziną wprzódy nie umarłem!/
+Umarłbym szczęsny! Od tej bowiem chwili/
+Świat ten śmiertelny stracił, co poważne;/
+Wszystko jest tylko fraszką! Sława, łaska,/
+Wszystko umarło! Wszystko życia wino/
+Już wytoczone, w tej ciemnej piwnicy/
+Tylko się na dnie męty pozostały.
+</strofa></kwestia>
+
+
+<didaskalia>Wchodzą: <osoba>Malcolm</osoba> i <osoba>Donalbain</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>DONALBAIN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Co się to stało?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Stało się nieszczęście,</wers_cd>/
+Które najciężej na serce twe spadnie./
+Krwi źródło twojej stanęło i wyschło.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Król, a twój ojciec, jest zamordowany.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>O! a przez kogo?</strofa></kwestia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>O ile się zdaje,</wers_cd>/
+Sprawcami czynu jego szambelani./
+Twarze i ręce były pokrwawione,/
+Jak ich sztylety, któreśmy znaleźli/
+Na ich wezgłowiach jeszcze nie otarte./
+Kto wzrok ich widział, dziki, obłąkany,/
+Nie chciałby życia straży ich powierzyć.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Jednak żałuję, że w wściekłości szale/
+Obu zabiłem.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Czemu to zrobiłeś?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Któż w osłupieniu roztropność zachował,/
+Miarę wśród szału? Kto razem był wierny/
+I obojętny? To nad ludzkie siły./
+Miłości mojej gwałtowne popędy/
+Zimnej rozwagi prześcignęły radę./
+Tam leżał Duncan; srebrną jego skórę/
+Krwi jego złotej otaczały pasy./
+Otwarte rany, jak wyłom natury,/
+Dawały wejście niszczącej ruinie;/
+Tam znów mordercy, naznaczeni barwą/
+Swego rzemiosła, a przy nich sztylety,/
+Jak w szpetnej pochwie, w zsiadłej krwi schowane./
+Któż by z miłością przepełnionym sercem,/
+Z odwagą w sercu, potrafił się wstrzymać,/
+Żeby miłości swej nie dowieść czynem?</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Ratujcie! Mdleję!</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Dajcie pomoc pani!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Czemu milczące nasze są języki,/
+Gdy nas dotyczy sprawa ta najbliżej?</strofa></kwestia>
+
+
+<naglowek_osoba>DONALBAIN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Jak mówić, kiedy nasze przeznaczenie/
+W nieznanej jamie czatuje ukryte,/
+Może z zasadzki lada chwila wypaść,/
+Może nas porwać? Uchodźmy stąd raczej:/
+Nie są dojrzałe dotychczas łzy nasze.
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>O boleść nasza do czynu niezdolna!</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Ratujcie panią!/ <didask_tekst>Wynoszą <osoba>lady Makbet</osoba>.</didask_tekst>/
+<wers_cd>Kiedy naszą nagość</wers_cd>/
+Od zimnych wiatru osłonim powiewów,/
+Zbierzmy się razem, aby czyn ten krwawy/
+Bliżej wybadać, bo w obecnej chwili/
+Miotają nami trwoga i niepewność./
+Życie me w Boga potężnej prawicy,/
+Pod jego pieczą wystąpię do boju/
+Przeciw nieznanym jeszcze uroszczeniom/
+Zbrodni i zdrady.</strofa></kwestia>
+
+<naglowek_osoba>MADUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Ja także!</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>WSZYSCY</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>My wszyscy!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>W męską gotowość śpiesznie się uzbrójmy,/
+Zbierzmy się potem w wielkiej sali.</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSCY</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Zgoda!</wers_cd>
+</strofa></kwestia>
+
+
+<didaskalia>Wychodzą wszyscy prócz <osoba>Malcolma</osoba> i <osoba>Donalbaina</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Co myślisz czynić? Nie łączmy się z nimi:/
+Przybrać pozory udanego żalu/
+Łatwą jest sztuką dla fałszywych ludzi./
+Spieszę do Anglii.
+</strofa></kwestia>
+
+
+<naglowek_osoba>DONALBAIN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>A ja do Irlandii;</wers_cd>/
+Los rozdzielony ustrzeże nas łatwiej./
+W ludzkich uśmiechach widzę tu sztylety,/
+A krwią najbliższy najkrwawszy jest dla nas.</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Ciśnięta strzała nie upadła jeszcze,/
+Nie stać na celu dla nas najbezpieczniej./
+Więc na koń! Bądźmy skąpi w pożegnaniach,/
+Uchodźmy tylko: wolno tam uciekać,/
+Gdzie niepodobna miłosierdzia czekać.</strofa></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+<naglowek_scena>SCENA IV</naglowek_scena>
+
+<didaskalia>Przed zamkiem.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Ross</osoba> i <osoba>Starzec</osoba>.</didaskalia>
+
+
+<naglowek_osoba>STARZEC</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Lat siedemdziesiąt dobrze zapamiętam,/
+W ich ciągu straszne widziałem godziny,/
+I sprawy dziwne, ale przy tej nocy/
+Fraszką są wszystkie minione wspomnienia.</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Ach, dobry ojcze, widzisz, że niebiosa,/
+Jakby człowieka pomieszane czynem,/
+Grożą swym gniewem krwawej jego scenie./
+Wedle zegaru, to dzień, ciemność przecie/
+Dnia lampę swoim zasłoniła kirem./
+Nocyż to przemoc, albo dnia wstydliwość,/
+Że cień osłonił ziemi tej oblicze,/
+Które blask żywy powinien całować?
+</strofa></kwestia>
+
+<naglowek_osoba>STARZEC</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jak ten czyn, wszystko naturze przeciwne:/
+W ostatni wtorek, sokół w dumnym locie/
+Padł pod szponami sowy myszołówki.
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Duncana konie (rzecz dziwna, lecz pewna),/
+Piękne i silne, swej ozdoba rasy,/
+Zdziczały nagle, z swej wypadły stajni,/
+Głuche na rozkaz, jakby chciały wojnę/
+Z rodem wieść ludzkim.</strofa></kwestia>
+
+<naglowek_osoba>STARZEC</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Mówią, że się gryzły.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Sam to widziałem, na mych ócz<pe><slowo_obce>ócz</slowo_obce> --- dziś popr. forma D. lm: oczu.</pe> zdziwienie./
+<didask_tekst>Wchodzi <osoba>Macduff</osoba>.</didask_tekst>/
+Lecz otóż Macduff. Cóż się dzieje w świecie?</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Alboż nie widzisz?
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Czyli już odkryto,</wers_cd>/
+<begin id="b1379876028038-2694062231"/><motyw id="m1379876028038-2694062231">Pozory</motyw>Kto sprawcą tego najkrwawszego czynu?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Ci, których Makbet własną zabił ręką.
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Przebóg! I czegóż mogli się spodziewać?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Byli kupieni. Malcolm i Donalbain,/
+Synowie króla, uciekli obadwa,/
+Na nich też czynu spada podejrzenie.<end id="e1379876028038-2694062231"/></strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Wszystko potworne! Łakoma ambicjo,/
+Pożerasz sama życia twego środki!/
+Więc teraz, ile wnioskować się godzi./
+Królewska godność spadnie na Makbeta.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Już ogłoszony; na koronowanie/
+Do Scone wyruszył.</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>A Duncana ciało?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Do świętych grobów Colmes-Cill wysłane,/
+Gdzie przodków jego spoczywają kości.
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czy do Scone jedziesz?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Nie, do Fife, kuzynie.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Moim zamiarem jest do Scone się udać.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Bodaj tam wszystko dobrze się skończyło,/
+By w nowych szatach gorzej nam nie było!</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Żegnam cię, ojcze.
+</strofa></kwestia>
+
+
+<naglowek_osoba>STARZEC</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Niech cię Bóg prowadzi,</wers_cd>/
+Jak wszystkich, którzy przemienić by chcieli/
+Co złe na dobre, wrogów w przyjacieli!</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+
+<naglowek_akt>AKT TRZECI</naglowek_akt>
+
+
+
+
+<naglowek_scena>SCENA I</naglowek_scena>
+
+<didaskalia>Forres. Sala w pałacu.</didaskalia>
+
+
+
+<didaskalia>Wchodzi <osoba>Banquo</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Masz teraz wszystko, tron, Cawdor i Glamis,/
+Jak ci przeznaczeń siostry obiecały;/
+Lękam się, żebyś najszpetniejszych środków/
+Do osiągnienia celów tych nie użył./
+Lecz powiedziano, że tron nie zostanie/
+Przy twym potomstwie, że ja będę szczepem/
+I ojcem królów długiego szeregu./
+Jeżeli prawda z ich ust może płynąć,/
+Jak się na tobie, Makbecie, sprawdziło,/
+Czemu, co było dla ciebie proroctwem,/
+Nie ma być także proroctwem i dla mnie,/
+Nie ma do góry podnieść mych nadziei?/
+Dość tego, cicho!</strofa></kwestia>
+
+
+<didaskalia>Przy odgłosie trąb wchodzą: <osoba>Makbet</osoba>, jako król, <osoba>Lady Makbet</osoba>,
+jako królowa, <osoba>Lennox</osoba>, <osoba>Ross</osoba>, <osoba>Panowie</osoba>, <osoba>Panie</osoba> i Służba.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>To nasz gość najdroższy.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Zapomnieć o nim byłoby obedrzeć/
+Z pierwszej ozdoby wielkie nasze święto.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Dziś uroczystą wydaję wieczerzę,/
+I proszę, abyś gościem mym być zechciał.</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Racz rozkazywać, najjaśniejszy panie,/
+Do woli twojej moje posłuszeństwo/
+Na zawsze wiąże węzeł niezerwany.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Czy po południu masz jechać gdzie konno?</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Tak jest, mój królu.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Gdyby nie to, chciałem</wers_cd>/
+Twojego zdania na dzisiejszej radzie/
+Zasięgnąć, panie, zawsze bowiem było/
+Mądrości pełne a w skutkach szczęśliwe./
+Ale odłożym sprawę tę do jutra./
+Jakże daleko chcesz jechać?</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Jak sądzę,</wers_cd>/
+Podróż zabierze czas mój do wieczerzy./
+Jeśli mój rumak kroku nie przyśpieszy,/
+Będę zmuszony od nocy pożyczyć/
+Jakich dwie godzin.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Raz jeszcze powtarzam:</wers_cd>/
+Tylko się nie spóźń<pe><slowo_obce>spóźń</slowo_obce> --- dziś popr. forma: spóźnij.</pe> na ucztę.</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Nie, królu.</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Słyszę, że krewni moi krwią zbroczeni/
+Chronią się teraz w Anglii i Irlandii./
+Żeby nie wyznać swego ojcobójstwa/
+Dziwne powieści swym prawią słuchaczom./
+Lecz jutro o tym, a przy sposobności/
+W innej też sprawie zasięgniem twej rady./
+Więc na koń! Żegnam do twego powrotu./
+Czy i Fleance jedzie z tobą?</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Tak jest, panie,</wers_cd>/
+A czas spóźniony śpieszyć się nam radzi.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Życzę wam koni szybkich, pewnonogich,/
+A ich grzbietowi obu polecając,/
+Żegnam was./ <didask_tekst>Wychodzi <osoba>Banquo</osoba>.</didask_tekst>/
+Każdy jest teraz panem swego czasu,/
+Do siódmej wieczór, żeby towarzystwo/
+Tym milsze było dla nas przy wieczerzy,/
+Kilka tych godzin przepędzim samotnie;/
+Tymczasem Bogu wszystkich was polecam./
+<didask_tekst>Wychodzą: <osoba>Lady Makbet</osoba>, <osoba>Panowie</osoba>, <osoba>Panie</osoba> itd.</didask_tekst>/
+Słuchaj! Czy ludzie ci są już gotowi?</strofa></kwestia>
+
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ U bram pałacu na rozkaz czekają.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Więc ich przyprowadź./ <didask_tekst>Wychodzi <osoba>Sługa</osoba>.</didask_tekst>/
+<wers_cd>Być królem jest niczym,</wers_cd>/
+Jeśli nie mogę być królem bezpiecznie./
+Ten Banquo serce trwogą mi napełnia,/
+W królewskiej jego duszy to panuje,/
+Co bojaźń rodzi: śmiały jest na wszystko,/
+A przy swej myśli harcie nieugiętym/
+Posiada mądrość, która męstwo jego/
+Bezpieczną drogą do celu prowadzi./
+On jeden tylko z żyjących mnie trwoży;/
+Geniusz mój w jego słabnie obecności,/
+Jak powiadają geniusz Antoniusza/
+Tam, gdzie był Cezar. On siostrom nakazał,/
+Gdy mnie królewskim pozdrowiły mianem,/
+I sobie także przyszłość prorokować;/
+One go ojcem królów powitały./
+Więc bezowocną na głowę koronę,/
+Jałowe berło w ręce me złożyły,/
+Które ma później obca dłoń mi wydrzeć,/
+Kiedy następcą mym nie syn mój będzie./
+Jak to? Więc duszę moją pokalałem/
+Dla Banqua synów? I dla ich wielkości/
+Zamordowałem dobrego Duncana?/
+W kielich pokoju mego gorycz wlałem,/
+Wieczny mój klejnot na pastwę oddałem/
+Ludzkiego rodu wspólnemu wrogowi,/
+żeby ich zrobić królami? Królami/
+Banqua nasienie? Nigdy! Raczej, losie,/
+Wejdź ze raną w szranki do walki na zabój!/
+Kto tam?/ <didask_tekst>Wchodzi <osoba>Sługa</osoba> z dwoma <osoba>Mordercami</osoba>.</didask_tekst>/
+<wers_cd>Drzwi pilnuj, póki nie zawołam.</wers_cd>/
+<didask_tekst>Wychodzi <osoba>Sługą</osoba>.</didask_tekst>/
+Czy to nie wczoraj z wami rozmawiałem?</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Wczoraj, mój królu.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Dobrze; czy me słowa</wers_cd>/
+Wzięliście potem na pilną rozwagę?/
+Wiedzcie, że dotąd jego tylko sprawą/
+Fortuna wasza nie mogła zakwitnąć,/
+O co, niesłusznie, mnie oskarżaliście./
+Wszystkom to wczoraj dokładnie wyłożył,/
+Jak was zwodnymi łudził nadziejami,/
+A tajnie szkodził, jakie były środki,/
+Kto ich używał, i tysiąc spraw innych,/
+Których słuchając, człek nawet półduszny/
+I półrozumny, rzekłby bez wahania:/
+To Banquo zrobił.</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Dowiodłeś nam, królu.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Dowiodłem. Później napomknąłem sprawę,/
+Która jest celem dzisiejszej rozmowy./
+Czy cierpliwości taki macie zasób,/
+Żeście gotowi wszystko płazem puścić?/
+Jestże w was tyle cnót ewangelicznych,/
+Żeby się modlić za tego uczciwca/
+I za ród jego, gdy on, ciężką dłonią,/
+Zgiął was do grobu, na żebraków zmienił?</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jesteśmy, królu, mężami.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd><begin id="b1379876778189-2514640753"/><motyw id="m1379876778189-2514640753">Mężczyzna, Kondycja ludzka, Pies</motyw>To prawda,</wers_cd>/
+Na liście mężów stoicie wpisani,/
+Jak kundle, charty, ogary i pudle,/
+Wyżły, brytany, szpice, bonończyki,/
+Wszystko to spólne psa nosi nazwisko;/
+Lecz gdy wartości przyjdzie regestr pisać,/
+Mówimy: szybki, leniwy lub zmyślny,/
+Stróż domu, łowny, stosownie do cnoty,/
+Którą w nim szczodra zamknęła natura,/
+Ta mu osobne zapewnia nazwisko/
+Do katalogu spólnego wciągnięte./
+Tak samo ludzie: jeśli więc myślicie,/
+Że imię wasze nie stoi ostatnie/
+W szeregu mężów, powiedzcie mi śmiało,/
+A ja powierzę sercom waszym sprawę,/
+Której spełnienie wroga wam usunie,/
+A do miłości mojej was przykuje,/
+Bo chorowite moje także zdrowie,/
+Póki on żyje, z jego tylko śmiercią/
+Czerstwe odkwitnie.<end id="e1379876778189-2514640753"/></strofa></kwestia>
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Jestem z liczby ludzi</wers_cd>/
+Tak rozjątrzonych świata obelgami,/
+Że bez wahania na wszystko się ważę,/
+Byle się pomścić za krzywdy i ciosy.
+</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><begin id="b1379876664312-569782827"/><motyw id="m1379876664312-569782827">Los, Odwaga</motyw>I ja też, królu, klęskami znękany/
+I skołatany losów przeciwnością,/
+Na losu kartę chętnie stawię życie,/
+Aby je przegrać albo je polepszyć.<end id="e1379876664312-569782827"/></strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Wiecie, że Banquo wrogiem był wam zawsze.</strofa></kwestia>
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Wiemy to, królu.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>I moim on wrogiem,</wers_cd>/
+A tak zaciekłym, że każda minuta,/
+W której oddycha, zagładą mi grozi./
+Chociaż mam siłę, aby go otwarcie/
+Znieść z moich oczu, wolą mą czyn pokryć;/
+Wstrzymać się muszę przez konieczne względy/
+Na spólnych jego i moich przyjaciół,/
+Których miłości nie mogę postradać./
+Płakać go będę, choć go sam obalę./
+Dlatego liczę dziś na pomoc waszą,/
+Aby rzecz ukryć przed źrenicą świata/
+Przez mnogie względy nieskończonej wagi.</strofa></kwestia>
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Twoje rozkazy wykonamy, królu.
+</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Choć życie ---
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Męstwo w oku waszym błyszczy.</wers_cd>/
+Wskażę wam miejsce, nim minie godzina,/
+Na czaty wasze, czas oznaczę ściśle,/
+Bo rzecz ta musi tej nocy się spełnić/
+W pewnej od zamku mego odległości:/
+Pomnijcie tylko, że czystym chcę zostać./
+Żeby w robocie nie zostało szpary,/
+I Fleance, syn jego, podróży towarzysz,/
+Którego zguba równie dla mnie ważna/
+Jak jego ojca, musi z nim podzielić/
+Czarnej godziny jedno przeznaczenie./
+Teraz wam daję chwilę do namysłu,/
+Wrócę niebawem.</strofa></kwestia>
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Jesteśmy gotowi.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Czekajcie na mnie. Więc rzecz ułożona./
+Gdy duch twój, Banquo, niebu przeznaczony,/
+Nocy tej musi raju znaleźć brony<pe><slowo_obce>brona</slowo_obce> (tu daw.) --- brama.</pe>. 
+</strofa></kwestia>
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA II</naglowek_scena>
+
+<didaskalia>Forres. Inny pokój zamku.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Lady Makbet</osoba> i <osoba>Sługa</osoba>.</didaskalia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Czy dwór opuścił Banquo?
+</strofa></kwestia>
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Tak jest, pani,</wers_cd>/
+Lecz wróci wieczór.
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Idź, powiedz królowi,</wers_cd>/
+Że go o kilka chwil rozmowy proszę.
+</strofa></kwestia>
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Idę. 
+</strofa></kwestia>
+
+<didaskalia>Wychodzi.</didaskalia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+<kwestia><strofa>
+<wers_cd><begin id="b1379877523729-3505107113"/><motyw id="m1379877523729-3505107113">Wyrzuty sumienia</motyw>Bez zysku wszystko tam stracone,</wers_cd>/
+Gdzie szczęścia żądze nie dają spełnione;/
+Bezpieczniej mordu ofiarą spać w grobie,/
+Jak mordem drżącą radość kupić sobie./
+<didask_tekst>Wchodzi <osoba>Makbet</osoba>.</didask_tekst>/
+Jak to, mój panie, dlaczego samotny/
+Za czarnych marzeń towarzystwem gonisz,/
+Karmisz się myślą, której należało/
+Do grobu zapaść z tym, o którym myśli?/
+Co bez lekarstwa, nie warte uwagi,/
+A co się stało, odstać się nie może.
+<end id="e1379877523729-3505107113"/></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nadcięty przez nas wąż, a nie zabity/
+Zrośnie się znowu, będzie, czym był wprzódy,/
+Złość nasza biedna zostanie jak dawniej/
+Pod groźbą zębów jego jadowitych./
+Ale niech raczej z fug wszystko wypadnie,/
+Dwa zginą światy, nim będziem pożywać/
+Chleb nasz śród trwogi, spać śród strasznych marzeń,/
+Które wstrząsają co noc naszą istność./
+Lepiej w mogile z umarłym spoczywać/
+Przez nas wysłanym, by spoczynek znaleźć,/
+Niż straszne męki, na torturach myśli,/
+Cierpieć bez końca. Duncan teraz w grobie/
+Usnął spokojnie po życia gorączce./
+Zdrada dla niego złość swą wyczerpała,/
+Sztylet, trucizna i domowe spiski,/
+Obce napady, nic go dziś nie trwoży.</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Dobry mój panie, wypogódź spojrzenie,/
+Miej twarz spokojną śród wieczornych gości.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Będę miał, droga, i ty miej ją, proszę./
+Do Banqua obróć wszystkie twoje względy,/
+Daj mu pierwszeństwo słowem i wejrzeniem./
+Gorzkie to chwile, w których nam potrzeba/
+W potoku pochlebstw myć nasze honory,/
+Na maski serca przemienić oblicza,/
+By się nie zdradzić.
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Nie myśl o tym więcej.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Dusza ma pełna niedźwiadków, o żono!/
+Wszak wiesz, że Banquo i jego Fleance żyją.
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Życia ich stempel nie jest przecie wieczny.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>To mnie też krzepi; można ich dosięgnąć./
+Bądź więc wesołą; nim swój lot klasztorny/
+Skończy nietoperz, zanim żuk pancerny,/
+Na głos Hekaty<pe><slowo_obce>Hekate</slowo_obce> (mit. gr.) --- bogini magii, ciemności i zjaw.</pe> czarnej, sennym brzękiem/
+Poziewającą pieśń nocy wybąka,/
+Straszny a sławny spełni się czyn.</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Jaki?</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Droga ma duszko, bądź niewinną wiedzy,/
+Póki spełnionej nie przyklaśniesz sprawie./
+Przyjdź, ciemna nocy, owiń swoją szarfą/
+Czułe źrenice dnia litościwego,/
+A swoją krwawą, niewidzialną ręką/
+Potargaj węzły, co blednąc mi każą!/
+Światło ciemnieje; kruk ciągnie do lasu,/
+Dzienne stworzenia cichną, zasypiają,/
+Nocne potwory łupu szukać wstają./
+Dziwisz się, widzę; chwilę cierpliwości:/
+Grzech sił dodaje dzieciom nieprawości./
+A teraz, idźmy.</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA III</naglowek_scena>
+
+<didaskalia>Forres. Park z bramą, prowadzącą do pałacu.</didaskalia>
+
+
+
+<didaskalia>Wchodzą trzej <osoba>Mordercy</osoba>.</didaskalia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+
+<kwestia><strofa>
+Lecz któż ci kazał połączyć się z nami?
+</strofa></kwestia>
+
+
+<naglowek_osoba>3 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Makbet.
+</strofa></kwestia>
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Możemy śmiało mu zaufać.</wers_cd>/
+Gdy tak dokładnie umiał nam opisać/
+Nasze zlecenia i działania sposób.</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Stań więc tu z nami. Jeszcze na zachodzie/
+Blade dnia cętki malują firmament./
+Spóźniony jeździec spina teraz konia,/
+By jeszcze na czas do gospody przybyć;/
+Już niedaleko cel naszej zasadzki.</strofa></kwestia>
+
+<naglowek_osoba>3 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Cicho! Czy tętent słyszeliście koni?</strofa></kwestia>
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+
+<didaskalia>za sceną</didaskalia>
+
+
+<kwestia><strofa>Hola! Pochodni!</strofa></kwestia>
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>To on. Reszta gości</wers_cd>/
+Już jest w pałacu.</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Odesłał rumaki.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>3 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Na jaką milę, zwykłym obyczajem/
+Wszystkich podróżnych, do zamkowej bramy/
+Piechotą idzie.</strofa></kwestia>
+
+
+<didaskalia>Wchodzą: <osoba>Sanguo</osoba> i <osoba>Fleanc</osoba>e, za nimi <osoba>Sługa</osoba> z pochodnią.</didaskalia>
+
+
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Hej, światła!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>3 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>To on jest!</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ A tylko śmiało!
+</strofa></kwestia>
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Deszcz będzie tej nocy.</wers_cd></strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Niech sobie leje.</strofa></kwestia>
+ 
+<didaskalia>Przebija <osoba>Banqua</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>BANQUO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Zdrada! Drogi Fleance,</wers_cd>/
+Uciekaj! Fleance, uciekaj! uciekaj!/
+Możesz mnie pomścić. --- Podły niewolniku!
+</strofa></kwestia>
+
+
+<didaskalia>Umiera. --- <osoba>Fleance</osoba> i <osoba>Sługa</osoba> uchodzą.</didaskalia>
+
+
+
+<naglowek_osoba>3 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Kto światło zgasił?
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Czy nie należało?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>3 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Trup jeden tylko; syn uciekł, jak widzę.
+</strofa></kwestia>
+
+
+<naglowek_osoba>2 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Najlepsza czynu połowa chybiona.
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Cóż robić! Idźmy powiedzieć, co zaszło.
+</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA IV</naglowek_scena>
+
+<didaskalia>Wielka pałacowa sala. Zastawiona uczta.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Makbet</osoba>, <osoba>lady Makbet</osoba>, <osoba>Ross</osoba>, <osoba>Lennox</osoba>, <osoba>Panowie</osoba>
+i <osoba>Służba</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Zasiądźcie, proszę; znacie wasze stopnie./
+Raz jeszcze jeden z serca was tu witam.
+</strofa></kwestia>
+
+
+<naglowek_osoba>PANOWIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Dzięki ci, królu!
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Zamiarem jest naszym</wers_cd>/
+Mieszać się z kołem gości, jak przystoi/
+Gospodarzowi. Nasza gospodyni/
+Zasiędzie krzesło, ale w swoim czasie/
+O pozdrowienie i od niej poprosim.</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>W moim imieniu naszym przyjaciołom/
+Racz me serdeczne oddać pozdrowienie.</strofa></kwestia>
+
+
+<didaskalia>Pierwszy <osoba>Morderca</osoba> pokazuje się przy drzwiach.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Patrz, jak serdecznie i oni dziękują./
+Dwie strony równe; tu w środku zasiędę;/
+Niech radość dzisiaj hasłem będzie naszym./
+Za chwilę pełny puchar pójdzie kołem. ---/
+<didask_tekst>Zbliżając się do drzwi.</didask_tekst>/
+Masz krew na twarzy.</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>To chyba krew Banqua.</wers_cd></strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Wolę ją widzieć na twoim obliczu,/
+Niż w jego żyłach. Wyekspediowany?</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Własną mu ręką gardło poderżnąłem.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Pierwszego rzędu jesteś rzezigardłem;/
+Lecz i ten dobry, który tę posługę/
+Fleansowi oddał; jeśliś ty to zrobił,/
+Równego tobie nie znajdzie pod słońcem.
+</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Fleance zdołał umknąć, najjaśniejszy panie.</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Więc mój paroksyzm znowu mnie napada,/
+Inaczej byłbym zdrów, jak marmur cały,/
+Stały jak skała, wolny jak powietrze,/
+Owiewające skrzydłem ziemię całą;/
+Lecz teraz jestem znów zapakowany,/
+Zamurowany, przybity, przykuty/
+Do szpetnej trwogi i powątpiewania./
+Ale przynajmniej Banquo jest bezpieczny?</strofa></kwestia>
+
+<naglowek_osoba>1 MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Bezpieczny, królu, w rowie teraz mieszka,/
+A ran dwadzieścia czerwieni mu głowę,/
+Z których najmniejszą uciekłoby życie.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Dzięki ci za to! Stary wąż zdeptany;/
+Robak, co uciekł, jad z czasem wysączy,/
+Dziś zębów nie ma. Oddal się na teraz,/
+Jutro obszerniej pogadamy o tym.
+</strofa></kwestia>
+
+
+<didaskalia>Wychodzi <osoba>Morderca</osoba>.</didaskalia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Królu i panie, nie zachęcasz gości,/
+A wszelka uczta jest jakby w oberży,/
+Jeśli gospodarz często nie dowodzi,/
+Że ją wydaje z całą serdecznością./
+Kto jeść chce tylko, niech ucztuje w domu;/
+W gościnie, potraw zaprawą uprzejmość,/
+A bez niej smaku nie ma towarzystwo.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Napominaczko słodka! --- Więc, panowie,/
+Z całej wam duszy życzę apetytu,/
+Bodaj wam uczta służyła na zdrowie!
+</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Racz zasiąść z nami, miłościwy panie.
+</strofa></kwestia>
+
+
+<didaskalia>Wchodzi duch <osoba>Banqua</osoba> i siada na miejscu <osoba>Makbeta</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Całą tej ziemi widziałbym tu chwałę,/
+Gdyby drogiego nie brakło nam Banqua./
+Bodajbym skarżyć jego mógł niegrzeczność,/
+A nie nieszczęście jakie opłakiwać!</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nieobecnością łamie dane słowo./
+Racz z towarzystwem twoim nas zaszczycić./
+Łaskawy królu.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Stół widzę już pełny.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Tu wolne miejsce.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Gdzie?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Tu, dobry panie.</wers_cd>/
+Co tak królewską waszą mość wzruszyło?</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Kto z was to zrobił?
+</strofa></kwestia>
+
+
+<naglowek_osoba>PANOWIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Co, dobry nasz królu?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Nie możesz mówić, że ja to zrobiłem:/
+Tylko mi krwawym nie potrząsaj włosem!
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Wstańmy, bo chory pan nasz miłościwy.
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nie, nie, zostańcie, dobrzy przyjaciele!/
+Od lat młodzieńczych król często tak bywa;/
+Ale to tylko chwilowy paroksyzm,/
+Przejdzie jak przyszedł, bez żadnego śladu./
+Baczność nań wasza obrazi go tylko,/
+A paroksyzmu gwałtowność podwoi./
+Jedzcie, odwróćcie od niego spojrzenia. ---/
+Jestżeś ty mężem?</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>A mężem bez trwogi,</wers_cd>/
+Zdolnym bez drżenia poglądać na rzeczy,/
+Na których widok sam diabeł blednieje!</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Piękny mam dowód! To puste marzenie,/
+Obraz przez twoją malowany trwogę,/
+Sztylet powietrzny, który, jak mówiłeś,/
+Wskazał ci drogę do izby Duncana./
+Drgania te, trwogi prawdziwej fałszerstwo,/
+Niewieściej bajce przystałyby lepiej,/
+Którą śród długich zimowych wieczorów,/
+Przy ogniu, babka rozpowiada wnukom./
+Wstydź się! Co znaczą dziwaczne te miny?/
+Boć w końcu, tylkoś oczy w krzesło wlepił.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Spójrz tam! Spójrz, proszę! Czy widzisz? Co mówisz?/
+Ale ja z tego śmieję się. Gdy możesz/
+Potrząsać głową, przemów także do mnie./
+Jeśli cmentarze, jeśli groby nasze/
+Tak nam odsyłać pogrzebanych muszą,/
+Niech sępów brzuchy będą naszym grobem.</strofa></kwestia>
+
+
+<didaskalia>Znika <osoba>Duch</osoba>.</didaskalia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Szaleństwo wszelkąż wydarło ci męskość?
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jak mnie tu widzisz, ja go tam widziałem.
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>O wstydź się, wstydź się!</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Nie dziś po raz pierwszy,</wers_cd>/
+Ale i w starych czasach krew płynęła,/
+Nim ludzkie prawa złagodziły dusze,/
+I później nawet popełniano mordy/
+Nazbyt okrutne dla ludzkiego ucha./
+Lecz dotąd, kiedy mózg wypłynął z czaszki,/
+Człowiek umierał, kończyło się wszystko;/
+Dziś wstają trupy, chociaż ran śmiertelnych/
+Dwadzieścia noszą na skrwawionej czaszce,/
+I z krzeseł naszych spędzać nas przychodzą:/
+To rzecz dziwniejsza niż takie morderstwo.</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Nasi dostojni goście w swoim kole/
+Widzieć cię łakną, królu.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Zapomniałem.</wers_cd>/
+Nie uważajcie na to, przyjaciele,/
+Dziwna mnie czasem napada choroba,/
+Która jest niczym dla tych, co mnie znają./
+Więc piję wasza przyjaźń, wasze zdrowie!/
+Śród was zasiędę; przynieście mi puhar,/
+Dajcie mi wina; nalewaj po brzegi!/ 
+<didask_tekst>Wchodzi <osoba>Duch</osoba>.</didask_tekst>/
+Więc zdrowie wasze i drogiego Banqua,/
+Którego brak nam do naszego szczęścia!/
+Bodaj był z nami! Piję zdrowie wszystkich!</strofa></kwestia>
+
+<naglowek_osoba>PANOWIE</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Dziękujem, królu, i spełniamy toast.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Precz, precz z mych oczu! Niech cię połknie ziemia!/
+Krew twoja zimna, kości twe bez szpiku,/
+W błyszczących oczach twoich życia nie ma!</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+
+<kwestia><strofa>Niech was to wszystko nie dziwi, panowie,/
+To zwykły jego paroksyzm, nie więcej./
+Żal mi jest tylko, że truje nam radość.</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Śmiem, co śmie człowiek, zbliż się tylko do mnie,/
+Czy jak kudłaty niedźwiedź z Rusi lasów,/
+Hirkański tygrys, zbrojny nosorożec;/
+Bądź, czym chcesz, byle nie tym, czym cię widzę,/
+A żaden nerw mój stalowy nie zadrgnie;/
+Lub ożyj znowu, wyzwij mnie na miecze,/
+A jeśli w trwodze schowam się wyzwany,/
+Powiedz, że jestem dziewczyną w pieluchach!/
+Precz, straszny cieniu! Precz, wietrzne złudzenie!/
+<didask_tekst><osoba>Duch</osoba> znika.</didask_tekst>/
+Tak! Ledwo zniknął, mężem znowu jestem. ---/
+Zostańcie, proszę!</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Zabiłeś nam radość,</wers_cd>/
+Wszystkoś pomącił twym dziwnym wybuchem.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Czy mogą takie rzeczy się wydarzyć,/
+A w piersiach naszych nie obudzić strachu,/
+Jak letnia chmurka przepłynąć po niebie?/
+Jakże mnie wielkie napełnia zdumienie,/
+Kiedy pomyślę, że możecie patrzeć/
+Spokojnym okiem na takie zjawisko,/
+Lic naturalnych nie stracić rubinów,/
+Kiedy twarz moja blednieje z przestrachu!
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jakie zjawisko?
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>O błagam, nie pytaj!</wers_cd>/
+Stan jego, widzę, coraz się pogorsza./
+Wszelkie pytanie wściekłość w nim rozbudza./
+A więc dobranoc! Nie zważajcie tylko/
+Na ceremonie i porządek wyjścia,/
+Lecz wyjdźcie wszyscy!</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Dobranoc! Życzymy</wers_cd>/
+Lepszego zdrowia królowi i panu!
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Wszystkim wam z serca dobrej nocy życzę!
+</strofa></kwestia>
+
+
+<didaskalia>Wychodzą: <osoba>Panowie</osoba> i Służba.</didaskalia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+To o krew woła, mówią: krew krwi pragnie./
+Gadały drzewa, chodziły kamienie;/
+Wieszczbiarze w swojej wyćwiczeni sztuce/
+Przez sroki, kawki, lub przez wron krakanie/
+Zdołali odkryć najskrytszego zbójcę. ---/
+Jak noc daleko?
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Z rankiem się pasuje,</wers_cd>/
+Kto z nich mocniejszy.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Co powiesz, że Macduff</wers_cd>/
+Nie przybył, mimo mojego wezwania?</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czy doń posłałeś?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Słyszałem ubocznie;</wers_cd>/
+Lecz poślę teraz. Na każdego dworze/
+Jednego sługę na mym mam jurgielcie<pe><slowo_obce>jurgielt</slowo_obce> (z niem. <slowo_obce>Jahrgeld</slowo_obce>: coroczna wypłata) --- pieniądze, płacone przez władcę oficerowi lub urzędnikowi pełniącemu służbę u jego sąsiada; korupcja, mająca na celu zapewnienie sobie poparcia lub informacji.</pe>./
+Jutro się udam do sióstr przeznaczenia;/
+Wybadam więcej, bo chcę teraz wiedzieć,/
+Choć przez najgorsze środki, co najgorsze./
+<begin id="b1379924919900-3593347482"/><motyw id="m1379924919900-3593347482">Czyn</motyw>Potrzaskam wszystko, co na mej jest drodze;/
+Tak już głęboko we krwi ludzkiej brodzę,/
+Że równie ciężko w tył kroki odwodzić,/
+Jak już do brzegu drugiego przebrodzić./
+Dziwne mam myśli, a spełnić je muszę,/
+Zanim rozwaga ochłodzi mi duszę.<end id="e1379924919900-3593347482"/></strofa></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Brak ci snu, stworzeń wszystkich karmiciela.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Idźmy spać! Myśl mą trwoga mąci młoda,/
+Ale jej hartu wprawa z czasem doda./
+Jesteśmy jeszcze nazbyt młodzi w czynach.
+</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA V</naglowek_scena>
+
+<didaskalia>Step.</didaskalia>
+
+
+
+<didaskalia>Pioruny. --- Wchodzi <osoba>Hekate</osoba> i spotyka trzy <osoba>Czarownice</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Cóż to, Hekate? Gniew z oczu ci widać.
+</strofa></kwestia>
+
+
+<naglowek_osoba>HEKATE<pe><slowo_obce>Hekate</slowo_obce> (mit. gr.) --- bogini magii, ciemności i zjaw.</pe></naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nie mamże przyczyn? Wy, jędze piekielne,/
+Skądże to męstwo przyszło wam bezczelne,/
+Że śmiecie same frymarczyć z Makbetem/
+Dwuznacznikami, śmiercią i sztyletem,/
+Gdy czarów waszych pani i bogini,/
+Gdy ja, klęsk wszystkich tajemna mistrzyni,/
+Żadnego wpływu nie miałam na sprawę,/
+Zdolną objawić sztuki naszej sławę?/
+A co najgorsza, że piekielne siły/
+Krąbrnemu tylko synowi służyły,/
+Co przeniewierczo, z potrzeby, jak wielu,/
+Kocha was tylko dla własnego celu./
+By złe naprawić, zaledwo dzień wstanie,/
+Gdzie Acherontu czekam was otchłanie,/
+Bo on tam przyjdzie o przyszłość was pytać,/
+Przeznaczeń swoich kartę nową czytać./
+Miejcież gotowe statki i przyprawy,/
+Których do naszej potrzeba nam sprawy,/
+Gdy ja w powietrza górne lecę koła,/
+Gdzie mnie fatalne, wielkie dzieło woła,/
+Muszę je spełnić u południa progu:/
+Zsiadłej krwi kropla na księżyca rogu/
+Wisi, a wprzódy mi ją schwycić trzeba,/
+Zanim na ziemię kapnie z sklepów<pe><slowo_obce>sklep</slowo_obce> (tu daw.) --- sklepienie, firmament.</pe> nieba;/
+Dystylowana potem przez me czary,/
+Tak fantastyczne stawi przed nim mary,/
+Że przez ułudnych potęg ciemne rady/
+Sam sprawcą swojej zostanie zagłady,/
+Pogardzi śmiercią, a nadzieje krwawe/
+Wzniesie nad mądrość, wiarę i obawę;/
+A zbytnia ufność, jak to wszystkie wiecie,/
+Głównym człowieka wrogiem jest na świecie./
+<didask_tekst>Muzyka i śpiew za sceną przy okrzykach: Bywaj! Bywaj!</didask_tekst>/
+Już duch mój mały woła na mnie z góry,/
+I czeka na mnie owinięty w chmury.</strofa></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Spieszmy się także, bo niedługo wróci. 
+</strofa></kwestia>
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA VI</naglowek_scena>
+
+<didaskalia>Forres. Pokój w pałacu.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Lennox</osoba> i inny <osoba>Pan</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Do twej trafiło myśli, com wprzód mówił,/
+Sam teraz możesz dalsze ciągnąć wnioski,/
+Ja tylko dodam: bieg sprawy był dziwny./
+Lecz Makbet bolał nad Duncana śmiercią;/
+Czemu nie? Kiedy Duncan w grobie leżał./
+A Banquo? Gdy się zbyt późno przechadzał,/
+Jeśli chcesz, powiedz, że Fleance go tam zabił,/
+Boć i Fleance uciekł; tym gorzej dla ludzi,/
+Którzy o późnej spacerują nocy./
+I któż nie widzi, jak wielka potworność,/
+Że się własnego ojca krwią zmazali/
+Malcolm, Donalbain? O piekielne dzieło!/
+Jak Makbet płakał! Czyż w pobożnym gniewie/
+Sam nie położył trupem dwóch zbrodniarzy,/
+Snu i pijaństwa jeńców nieprzytomnych?/
+Czy nie szlachetny to czyn a roztropny?/
+Boć by się każdy żywy duch oburzył,/
+Gdyby tych łotrów usłyszał przeczenie./
+Słowem, ułożył wszystko doskonale,/
+I myślę, gdyby dwóch Duncana synów/
+Pod kluczem trzymał (czego nie daj Boże!),/
+Nauczyłby ich, a i Fleansa z nimi,/
+Co się to znaczy zabijać rodzica./
+Lecz cicho! Macduff bowiem, jak słyszałem,/
+Że nazbyt głośno swe objawił myśli,/
+A na tyrana nie stawił się uczcie,/
+W niełaskę popadł. Czy wiesz, gdzie się schronił?</strofa></kwestia>
+
+
+<naglowek_osoba>PAN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Malcolm, któremu wydarł srogi tyran,/
+Co mu należy prawem urodzenia,/
+Żyje na dworze angielskiego króla;/
+Pobożny Edward tak wdzięcznie go przyjął,/
+Że mimo ciosów zawziętej fortuny,/
+Wszystkie należne zaszczyty odebrał;/
+I Macduff błaga świętego tam króla,/
+Aby Siwarda i Northumberlanda/
+Wyprawił do nas, byśmy z ich pomocą,/
+A bożą łaską i błogosławieństwem,/
+Mogli do stołu bezpiecznie znów zasiąść,/
+I spać bez trwogi, wygnać krwawe noże/
+Z uroczystości i zgromadzeń naszych,/
+Hołd składać prawy, a odbierać w zamian/
+Czyste honory, za czym dziś wzdychamy./
+Ta wieść królewską wściekłość zapaliła,/
+I już się zaczął do wojny gotować.</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Czy po Macduffa posłał?</strofa></kwestia>
+
+<naglowek_osoba>PAN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Tak jest, panie,</wers_cd>/
+Lecz Macduff odrzekł: ,,nie ja, mości królu!"/
+Chmurny posłaniec odwrócił się, mrucząc,/
+Jakby chciał mówić: ,,pożałujesz chwili,/
+W której podobną dałeś mi odpowiedź".</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Wszystko to mądrą roztropność mu radzi,/
+I stać mu każe, jak można najdalej./
+Niech święty anioł leci na dwór Anglii,/
+I nim przybędzie, zjedna wysłuchanie/
+Jego poselstwu! By błogosławieństwo/
+Na ziemię naszą zbiegło lotnym skrzydłem,/
+Cierpiącą dzisiaj pod dłonią przeklętą!</strofa></kwestia>
+
+<naglowek_osoba>PAN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+I ja posyłam modlitwy z nim moje!
+</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+
+<naglowek_akt>AKT CZWARTY</naglowek_akt>
+
+
+
+
+<naglowek_scena>SCENA I</naglowek_scena>
+
+<didaskalia>Ciemna jaskinia. --- W pośrodku wrzący kocioł.</didaskalia>
+
+
+
+<didaskalia>Pioruny. --- Wchodzą trzy <osoba>Czarownice</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Trzykroć miauknął kot pstrokaty.
+</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ I jeż trzykroć i raz świsnął.
+</strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Harpia woła: czas! już czas!
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czas czarodziejski taniec zawrócić,/
+W kotła wnętrzności truciznę rzucić./
+Ropucho czarna, co od miesiąca/
+Pod zimnym głazem skryta śpiąca/
+Sączyłaś jady, ty na początek/
+Zaprawisz kotła naszego wrzątek.
+</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Podwójmy trudy, a śmiało dalej!/
+Niech kipi kocioł, ogień się pali!</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Kłąb schwytanego węża w wiszarze<pe><slowo_obce>wiszar</slowo_obce> --- urwisko, stromizna; torfowisko wiszące (na stromym zboczu).</pe>/
+Niechaj się w kotła gotuje parze,/
+Włos nietoperza, włosy jaszczurek,/
+Język brytana, żaby pazurek,/
+Żądło padalca i żmii widła;/
+A teraz sowy dorzućmy skrzydła,/
+Niech jak piekielny rosół szumują,/
+Na czar się dzielny wydestylują.</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Podwójmy trudy, a śmiało dalej!/
+Niech kipi kocioł, ogień się pali!</strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><begin id="b1379881834177-3217717181"/><motyw id="m1379881834177-3217717181">Czary</motyw>I łuskę smoka, i ząb wilczycy,/
+I suchą mumię rzuć czarownicy,/
+Do ludojada krwawej paszczęki/
+Szaleju w nocy kopane pęki,/
+Bluźniercy żyda wątroby miazgę,/
+Dodaj żółć kozła i cisu drzazgę,/
+Co wśród zaćmienia księżyca rwana,/
+Tatara wargi, nos bisurmana,/
+I palec dziecka, które powite,/
+Przez własną matkę było zabite;/
+By kleikowi dodać gęstości,/
+Tygrysa teraz dorzuć wnętrzności.</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Podwójmy trudy, a śmiało dalej!/
+Niech kipi kocioł, ogień się pali!
+<end id="e1379881834177-3217717181"/></strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Krwią teraz małpy ostudźmy wrzątek,/
+A silnych czarów skończony wątek.</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Hekate</osoba> z trzema innymi <osoba>Czarownicami</osoba>.</didaskalia>
+
+
+<naglowek_osoba>HEKATE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>O dobrze! Dzięki za waszą pracę,/
+Każda odbierze należną płacę./
+Teraz przy kotle piosnkę zanućmy,/
+I taniec duchów wkoło zawróćmy,/
+Do czarów nowe czary przyrzućmy!</strofa></kwestia>
+
+
+<didaskalia>Muzyka i pieśń ,,Czarne duchy!" itd. --- <osoba>Hekate</osoba> wychodzi.</didaskalia>
+
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Kłucie w palcach mi powiada,/
+Że tu złego coś się skrada. ---/
+Pęknij ryglu, kto bądź stuka!</strofa></kwestia>
+ 
+<didaskalia>Wchodzi <osoba>Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czarne, tajemne, wy północy wiedźmy,/
+Co tu robicie?
+</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Dzieło bez nazwiska.</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Ja was na wasze zaklinam rzemiosło,/
+Na me pytanie dajcie mi odpowiedź,/
+Jaką bądź drogą wiedza wam ta przyjdzie,/
+Choćbyście wiatry wykiełznały wszystkie/
+I przeciw bożym popchnęły świątyniom,/
+Choćby okręty połknąć morze miało,/
+A burza lasy i żniwa powalić,/
+Zamki na stróżów swoich głowy runąć,/
+Choćby pałace, choćby piramidy/
+Schyliły głowę do swych fundamentów,/
+Zmarniał skarb wszystkich zarodków natury/
+Aż do przesytu zniszczenia: zaklinam,/
+Na me pytania dajcie mi odpowiedź!</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Mów!
+</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Pytaj!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Damy na wszystko odpowiedź.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czy chcesz ją raczej z ust naszych usłyszeć,/
+Czy panów naszych?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Panów; chcę ich widzieć.</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Więc krew maciory lejmy na początek/
+Która pożarła dziewięć swych prosiątek,/
+Tłuszcz z szubienicy zbója wypocony./
+Niech jasny ogień tryska podsycony.</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czy z ziemi wypłyń, czy spadnij tu z góry,/
+Pokaż mu całą dzielność swej natury!
+</strofa></kwestia>
+
+
+<didaskalia>Pioruny. Pokazuje się nad kotłem głowa uzbrojona hełmem.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Mocy nieznana ---
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>W twym czyta sumieniu;</wers_cd>/
+O nic nie pytaj, lecz słuchaj w milczeniu.</strofa></kwestia>
+
+
+<naglowek_osoba>ZJAWISKO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Strzeż się, Makbecie! Makbecie! Makbecie!/
+Strzeż thana Fife'u! Puść mnie, dość już tego!</strofa></kwestia>
+ 
+<didaskalia>Znika.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Ktokolwiek jesteś, dzięki za przestrogę!/
+W czułą mej trwogi uderzyłeś strunę,/
+Lecz słowo jeszcze!
+</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Rozkazów nie słucha.</wers_cd>/
+Ale się zbliża drugi potężniejszy.
+</strofa></kwestia>
+
+
+<didaskalia>Pioruny. Pokazuje się widziadło krwawego Dziecka.</didaskalia>
+
+
+
+<naglowek_osoba>ZJAWISKO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Słuchaj Makbecie! Makbecie! Makbecie!
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Gdybym miał, trzema słuchałbym uszami.
+</strofa></kwestia>
+
+
+<naglowek_osoba>ZJAWISKO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Bądź śmiały, śmiej się z ludzi, bo Makbeta/
+Człowiek, którego rodziła kobieta,/
+Nie zdoła zabić.
+</strofa></kwestia>
+ 
+<didaskalia>Znika.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>A więc żyj, Macduffie!</wers_cd>/
+Bo czegóż mogę lękać się od ciebie?/
+Lecz żeby pewność podwoić pewnością,/
+Wezmę rękojmię przeznaczeń --- ty umrzesz,/
+Ażebym bladej powiedzieć mógł trwodze:/
+,,Kłamiesz!", spokojnie spał mimo piorunów./
+<didask_tekst>Pioruny. Pokazuje się Dziecko w koronie, z drzewem w ręku.</didask_tekst>/
+Któż to w postaci królewskiego dziecka/
+Wstaje, na czole niosąc niemowlęcym/
+Wszechwładców znamię, monarchów krąg złoty?</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Nie mów do niego, pilnie tylko słuchaj.
+</strofa></kwestia>
+
+
+<naglowek_osoba>ZJAWISKO</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Bądź jak lew dumny, a nie troszcz się wcale,/
+Że knują spiski niechętni wasale./
+Bo nikt Makbeta sił wprzódy nie skruszy,/
+Póki birnamski las się nie poruszy,/
+I sprzymierzeniec buntowników rzeszy/
+Na Dunsinane'u górę nie pośpieszy.</strofa></kwestia>
+ 
+<didaskalia>Znika.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Więc nigdy! Gdzie mąż, co lasom rozkaże/
+Rwać się z korzenia i trzymać mu straże?/
+Szczęśliwa wróżbo! Niech bunt czeka pory,/
+W której birnamskie wyciągną z nim bory,/
+A Makbet życia dzierżawę na tronie/
+Przeżyje całą, w przyrodzonym zgonie/
+Swój dług zapłaci. Lecz serce mi bije,/
+By wiedzieć jeszcze (jeśli to odkryje/
+Sztuk waszych dzielność), czy dzień ten zaświeci,/
+W którym na tronie siądą Banqua dzieci?</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Nie pytaj więcej.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Muszę mieć odpowiedź.</wers_cd>/
+Odmówcie tego, a wieczne przekleństwo/
+Niech spadnie na was! Muszę wszystko wiedzieć./
+Czemu ten kocioł w ziemię się zapada?/
+Co to za dźwięki?</strofa></kwestia>
+ 
+<didaskalia>Oboje.</didaskalia>
+
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Pokaż się!
+</strofa></kwestia>
+
+
+<naglowek_osoba>2 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Pokaż!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>3 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Pokaż!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSTKIE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Niechaj wasz widok serce mu zakrwawi,/
+Jak cień przeminie i jak cień się zjawi!
+</strofa></kwestia>
+
+
+<didaskalia>Pokazuje się ośmiu Królów, przechodzą scenę jeden za drugim;
+ostatni trzyma w ręku zwierciadło; za nimi <osoba>Banquo</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Do ducha Banqua zbyt jesteś podobny,/
+Zgiń! Twa korona oczy moje pali./
+Ty drugi, włos twój widać spod korony/
+Jak włos pierwszego. Trzeci wam podobny./
+Ha, czarownice, czemu mi to wszystko/
+Pokazujecie? Czwarty? Ślepnij, oko!/
+Do końcaż świata szereg się przeciągnie?/
+Znów inny? Siódmy? Nie chcę więcej widzieć!/
+Lecz ósmy jeszcze zbliża się i w dłoni/
+Trzyma zwierciadło, w którym tłumy widzę,/
+A śród tych tłumów widzę, jak niejeden/
+Dwa globy razem i trzy berła dzierży./
+Okrutny widok! Widzę, że prawdziwy,/
+Bo krwią zbroczony Banquo się uśmiecha/
+I pokazuje swoje mi potomstwo,/
+Jestże to prawda?</strofa></kwestia>
+
+
+<naglowek_osoba>1 CZAROWNICA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Prawda. Czemu przecie</wers_cd>/
+Jak osłupiały stoisz tu, Makbecie?/
+Więc dalej! Siostry, niech tańce i trele/
+Wrócą mu znowu pokój i wesele;/
+Ja zaklnę wiatry, by grały wesoło,/
+A wy zawiedźcie stare nasze koło,/
+By król ten wielki poświadczyć był w stanie,/
+Że godne siebie znalazł powitanie.</strofa></kwestia>
+
+
+<didaskalia>Muzyka. <osoba>Czarownice</osoba> tańczą i znikają.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Gdzie są! Zniknęły! Straszna to godzina/
+Niech w kalendarzu stoi zapisana/
+Jako na wieki przeklęta! Wejdź teraz.</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Lennox</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Co mi królewska wasza mość rozkaże?</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+
+<kwestia><strofa>
+Czyś widział siostry przeznaczeń?
+</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Nie, królu.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Czy obok ciebie nie przeszły?
+</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Nie, królu.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Przeklęte wiatry, po których żeglują!/
+I ten przeklęty, który im zaufał!/
+Słyszałem galop koni; kto tu przybył?</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Dwóch lub trzech jeźdźców, którzy wieść przynoszą:/
+Macduff do Anglii uciekł.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Co? Do Anglii?</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Tak jest.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+<kwestia><strofa><wers_cd>O czasie, wyprzedzasz swe dzieło!</wers_cd>/
+Nic, nigdy lotnej nie dościgniem myśli,/
+Jeżeli z myślą czyn nie leci razem!/
+Odtąd też pierwsza myśl mojego serca/
+Będzie i pierwszym ręki mojej dziełem./
+I zaraz, żeby myśl czynem uwieńczyć,/
+Myślmy, działajmy. Zamiarem jest moim/
+Wpaść na Macduffa zamek, Fife zagarnąć,/
+W pień wyciąć żonę jego, niemowlęta,/
+I biedne dusze, w których się przeciąga/
+Ród jego w przyszłość. Lecz żadnych przechwałek;/
+Dokonam czynu zanim myśl ostygnie./
+Gdzie są posłańcy? Poprowadź mnie do nich.</strofa></kwestia>
+
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA II</naglowek_scena>
+
+<didaskalia>Fife. Pokój zamku Macduffa.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Lady Macduff</osoba>, jej <osoba>Syn</osoba> i <osoba>Ross</osoba>.</didaskalia>
+
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Cóż zrobił, żeby z ojczyzny uciekać?
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Cierpliwość, pani.
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Czemu on jej nie miał?</wers_cd>/
+Jego ucieczka szaleństwa jest dziełem:/
+Jeśli nie czyny, to nas trwoga nasza/
+Zdrajcami robi.
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Jeszcze nie wiesz, pani,</wers_cd>/
+Czy to natchnienie trwogi czy mądrości.
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Mądrości? Jak to? Żonę swą opuścić,/
+Swe niemowlęta, zamek, swe godności/
+Na ziemi, z której sam jeden ucieka?/
+On nas nie kocha; swoim go natura/
+Nie tknęła palcem; toć i biedny królik,/
+Drobna ptaszyna, z sową toczy wojnę,/
+Aby w swym gniazdku bronić swoich piskląt./
+Trwogą to wszystko, ale nie miłością;/
+Mała to mądrość przeciw rozumowi/
+Uciekać od nas.</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Miarkuj się, kuzynko.</wers_cd>/
+Mąż twój szlachetny, mądry i roztropny/
+Zna doskonale czasów tych narowy<pe><slowo_obce>narów</slowo_obce> (tu daw.) --- zły nawyk.</pe>./
+Nie śmiem ci dłużej o tych sprawach mówić/
+I tylko dodam: okrutne to czasy,/
+W których, nie wiedząc, jesteśmy zdrajcami,/
+W których wieść głucha przynosi nam trwogę,/
+Nie wiemy jednak, czego się boimy;/
+Jakby na dzikim, rozdąsanym morzu./
+Po wichrów woli musim się kołatać./
+Żegnam cię teraz; niedługo powrócę./
+Rzecz, gdy najgorsza, albo ustać musi,/
+Albo powrócić do pierwszego stanu./
+Piękny kuzynie, niech ci Pan Bóg szczęści!</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Chociaż ma ojca, sierotą jest przecie.
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Dłużej tu zostać byłoby szaleństwem,/
+Siebie bym zgubił, a tobie nie pomógł,/
+Żegnam!</strofa></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Wiesz, chłopcze, że ojciec twój umarł?</wers_cd>/
+Co teraz poczniesz, jak żyć teraz będziesz?</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jak ptaki, matko.
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Muchą i robaczkiem?</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Co znajdę, matko, bo tak żyją ptaki.
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Biedne pisklątko! Czy ty się nie boisz/
+Sieci i lepiu, potrzasku i sideł?
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Czemu mam bać się? Na małe ptaszęta/
+Nie czyha strzelec. Ojciec mój nie umarł,/
+Mimo słów twoich.</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Owierzaj mi, umarł.</wers_cd>/
+Co teraz poczniesz, żeby ojca znaleźć?
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+A ty co, matko, żeby znaleźć męża?
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Na jednym targu dwudziestu ich kupię.
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+A więc ich kupisz, żeby ich odprzedać.
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Z całym twym mówisz dowcipem<pe><slowo_obce>dowcip</slowo_obce> (tu daw.) --- inteligencja, spryt.</pe>; na wiek twój/
+Dosyć dowcipu.
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Czy ojciec mój był zdrajcą, matko?
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Tak jest, był nim.
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Co to jest zdrajca?
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Zdrajca jest to człowiek, który przysięga a kłamie.
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+I wszyscy, co to robią, są zdrajcami?
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Każdy, co to robi, jest zdrajcą i wart szubienicy.
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>I wszyscy warci szubienicy, którzy przysięgają a kłamią?/</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Wszyscy, co do jednego.
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+A kto ich ma wieszać?
+</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Naturalnie, uczciwi ludzie.
+</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>To kłamcy i krzywoprzysięzcy nie mają rozumu, bo
+jest ich więcej niż trzeba, żeby pobić i powywieszać
+wszystkich uczciwych ludzi.</akap></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Dopomóż ci Boże, biedna małpeczko! Ale co ty poczniesz, żeby znaleźć ojca?</strofa></kwestia>
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Gdyby umarł, płakałabyś po nim, matko, a gdybyś
+go nie płakała, to byłby znak oczywisty, że będę
+miał wkrótce nowego ojca.</strofa></kwestia>
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Biedny świegotko! co też ty pleciesz.</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Posłaniec</osoba>.</didaskalia>
+
+
+<naglowek_osoba>POSŁANIEC</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Bóg z tobą, pani! Nie jestem ci znany,/
+Ale ja dobrze znam twój stan i godność./
+Niebezpieczeństwo jest stąd niedaleko;/
+Jeśli chcesz słuchać rad prostego człeka,/
+Uciekaj z dziećmi, póki jeszcze pora./
+Rzecz to okrutna tak straszyć cię, pani,/
+Lecz okrutniejsze jest niebezpieczeństwo,/
+Które ci grozi. Niech cię Bóg zachowa!/
+Dłużej tu zostać nie śmiem i nie mogę.
+</strofa></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Gdzie mam uciekać? Nic nie popełniłam./
+Lecz zapominam, że na ziemi żyję,/
+Gdzie zły uczynek często chwałę daje,/
+Dobry jest czasem głupstwem niebezpiecznym./
+Czemuż, niestety! chcę się teraz słonić<pe><slowo_obce>słonić</slowo_obce> --- osłaniać, chronić.</pe>/
+Niewieścią bronią: nic nie popełniłam?/
+Cóż to za twarze?</strofa></kwestia>
+
+<didaskalia>Wchodzą <osoba>Mordercy</osoba>.</didaskalia>
+
+
+<naglowek_osoba>MORDERCA</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Gdzie mąż twój?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>LADY MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Przypuszczam,</wers_cd>/
+Że nie jest w miejscu dość sprofanowanym,/
+By go mógł spotkać człek tobie podobny.</strofa></kwestia>
+
+
+<naglowek_osoba>MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ To zdrajca.
+</strofa></kwestia>
+
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Kłamiesz, ty łotrze plugawy!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MORDERCA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Co? To ty jajko, zdrady świeża ikro!</strofa></kwestia>
+
+<didaskalia>Przebija go.</didaskalia>
+
+
+
+<naglowek_osoba>SYN</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Zabił mnie, matko, błagam cię, uciekaj!
+</strofa></kwestia>
+ 
+<didaskalia>Umiera.</didaskalia>
+
+
+
+<didaskalia><osoba>Lady Macduff</osoba> wybiega, wołając: mord! za nią <osoba>Mordercy</osoba>.</didaskalia>
+
+
+<naglowek_scena>SCENA III</naglowek_scena>
+
+<didaskalia>Anglia. Pokój w pałacu królewskim.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Malcolm</osoba> i <osoba>Macduff</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Szukajmy jakiej posępnej ustroni,/
+By tam wypłakać serc naszych strapienia.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Raczej śmiertelny miecz chwyćmy do ręki,/
+Ażeby prawa nasze i swobody/
+Odzyskać znowu, jak przystoi mężom./
+Co ranek nowych wdów słyszymy wycie,/
+Jęk nowych sierot i nowe boleści/
+Biją w sklep<pe><slowo_obce>sklep</slowo_obce> (tu daw.) --- sklepienie, firmament.</pe> nieba, które je powtarza,/
+Jak gdyby Szkocji dzieliło uczucia,/
+I powtarzało żalów jej sylaby.</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Wszystko, co wierzę, szczerze opłakuję,/
+A co wiem, wierzę; co mogę naprawić,/
+Naprawię, bylem przyjazną miał porę./
+Co powiedziałeś, może być prawdziwe,/
+Lecz tyran, samo którego nazwisko/
+Pryszczy nam język, poczciwego męża/
+Miał niegdyś sławę; kochałeś go szczerze;/
+Jeszcze cię nie tknął. Jestem wprawdzie młody,/
+Przeze mnie jednak możesz się u niego/
+Dobrze zasłużyć, a mądrość doradza/
+Poświęcić słabe i niewinne jagnię,/
+Żeby przebłagać bóstwo zagniewane.</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Nie jestem zdrajcą.
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Lecz zdrajcą jest Makbet.</wers_cd>/ 
+Natura nawet dobra i uczciwa/
+Może się potknąć na rozkaz mocarza./
+Lecz daruj, proszę; myśli me nie mogą/
+Przemienić tego, czym jesteś w istocie./
+Jasny jest anioł, chociaż najjaśniejszy/
+Upadł<pe><slowo_obce>Jasny jest anioł, chociaż najjaśniejszy upadł</slowo_obce> --- nawiązanie do mitu o nieposłuszeństwie i upadku anioła Lucyfera (niosącego światło, z łac. <slowo_obce>lux</slowo_obce>, <slowo_obce>lucis</slowo_obce>: światło; <slowo_obce>ferre</slowo_obce>: nieść).</pe>; i choćby wszelka ludzka podłość/
+Znamiona cnoty nosiła na czole,/
+Cnota zachować musi cnoty znamię.</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Już moje wszystkie straciłem nadzieje.
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Może tam właśnie, gdziem znalazł wątpienie./
+Czemuś tak nagle rzucił dzieci, żonę,/
+Skarby tak drogie i miłości węzły,/
+Bez pożegnania? Nie chciej jednak, proszę,/
+W mych podejrzeniach widzieć twej niesławy,/
+Lecz tylko własne moje bezpieczeństwo./
+Mimo mych myśli, możesz być uczciwy.</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Krwaw się, o krwaw się, biedna moja ziemio!/
+Wielka tyranio, gruntuj twe podstawy,/
+Bo cnota nie śmie czoła ci postawić,/
+Używaj śmiało twoich nieprawości,/
+Bo ci przyznane do tego dziś prawo!/
+Żegnam cię, panie! Lecz wiedz, żebym nie chciał/
+Być łotrem, którym w twojej jestem myśli,/
+Za całą ziemię, którą gniecie tyran,/
+Z wszystkimi Wschodu skarbami w dodatku.
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Nie miej urazy, bo nie mówię wcale,/
+Jak gdybym stracił wszelką w tobie wiarę./
+Wiem, że pod jarzmem ziemia nasza jęczy,/
+W krwi i łzach tonie, i wiem, że dzień każdy/
+Nowe jej rany do starych przyrzuca;/
+Wiem, że niejedna dłoń by się podniosła/
+W mych praw obronie, że tu król angielski/
+Mężnych tysiące daje mi na pomoc;/
+<begin id="b1379884485223-3712934672"/><motyw id="m1379884485223-3712934672">Przemiana, Władza</motyw>A jednak, kiedy na głowie tyrana/
+Postawię nogę, lub na miecz ją zatknę,/
+Biedna ma ziemia zobaczy na tronie/
+I zbrodni więcej, i więcej ucierpi/
+Niż pod tyranem, pod jego następcą.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ A któż nim będzie?
+</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Ja, chciałem powiedzieć,</wers_cd>/
+W którego sercu tyle jest zarodków/
+Wszelkiego złego, że byle dojrzały,/
+Sam czarny Makbet jak śnieg będzie czysty,/
+I za baranka lud go biedny weźmie,/
+Gdy czyny jego z moimi porówna.<end id="e1379884485223-3712934672"/></strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>We wszystkich pułkach straszliwego piekła/
+Nie znajdziesz diabła, który by Makbeta/
+W złem mógł prześcignąć.</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Zgadzam się, że krwawy,</wers_cd>/
+Lubieżny, chciwy, fałszywy, gwałtowny,/
+Że w duszy swojej wszystkie chowa grzechy,/
+Które w języku ludzkim imię mają;/
+Ale dna nie ma w mojej lubieżności,/
+Wasze matrony, żony, wasze córki/
+Mych żądz napełnić nie potrafią studni./
+Żądz tych gwałtowność gotowa potrzaskać/
+Wszelkie zawady opór stawiające:/
+Nie lepszyż Makbet od takiego króla?</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Chuć rozpasana nieraz już przedwcześnie/
+Tron opróżniła szczęśliwy, i nieraz/
+Była sprawczynią upadku narodów;/
+Lecz bez obawy zabierz, co jest twoje,/
+Rozległe znajdziesz pole dla żądz twoich,/
+Biorąc do syta, możesz świat oszukać/
+I za zimnego przed ludźmi uchodzić./
+Nigdy na chętnych nie braknie ci paniach,/
+Nigdy nie będziesz sępem tak żarłocznym,/
+Byś połknął wszystko, co się dobrowolnie/
+Wielkości odda, znając jej pociągi.</strofa></kwestia>
+
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>To nie dość: w mojej przewrotnej naturze/
+Nienasycona tak zakwitła chciwość,/
+Że raz na tronie, mych panów bym kosił,/
+By ich klejnoty, ziemie, domy zabrać./
+Skarb powiększony będzie jak przyprawa/
+Głód zwiększająca; w sidła nieprawości/
+Będę uczciwych, wiernych panów chwytał,/
+Aby z ich śmiercią majątki ich grabić.</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Chciwość korzenie swe głębiej zapuszcza,/
+Niżli chuć wiosny, lubieżność, i chciwość/
+Zabitych królów naszych była mieczem;/
+Nie troszcz się jednak, bo znajdziesz dostatkiem/
+W twoich królewskich w Szkocji posiadłościach,/
+Aby nasycić twej chciwości paszczę./
+Wszystko to znosić nietrudno nam będzie,/
+Biorąc na wagę inne twoje cnoty.</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Ja żadnej nie mam. Te cnoty królewskie:/
+Szczerość, wytrwałość, dobroć, sprawiedliwość,/
+Męstwo, pobożność, cierpliwość, pokora,/
+I miłosierdzie, wszystkie mi są obce;/
+Lecz za to żadnej nie braknie mi zbrodni,/
+A znam sposoby, jak wszystkie nasycić./
+Gdybym na tronie zasiadł, niewątpliwie/
+Zgody bym mleko na dno piekła wylał,/
+Zakłócił pokój, jedność ziemi zerwał.</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>O Szkocjo! Szkocjo!</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Jeśli twoim zdaniem</wers_cd>/
+Człek taki godny ojczyzną twą sądzić,/
+Jam jest tym człekiem.
+</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Godny Szkocją rządzić?</wers_cd>/
+Nie, żyć niegodny! Biedna moja ziemio,/
+Przywłaszczyciela krwawym berłem zgięta,/
+Kiedyż swobody swojej dzień zobaczysz,/
+Gdy prawy dziedzic tronu królów twoich/
+Sam się wyklina własnymi ustami,/
+Na szczep swój własny bluźnierstw miota brzemię?/
+Dostojny ojciec twój był świętym królem,/
+Matka królowa częściej na kolanach,/
+Niźli na nogach, dla marności świata/
+Z dniem każdym życia swego umierała./
+Bądź zdrów! Te grzechy, z których się spowiadasz,/
+Które wyznajesz, z Szkocji mnie wygnały./
+Serce me, tutaj nadziei twych koniec!</strofa></kwestia>
+
+<naglowek_osoba>MALOCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Gniew twój szlachetny, dziecko uczciwości,/
+W duszy mej czarne zatarł podejrzenia,/
+Myśl mą pojednał z twą czcią i szczerością./
+Szatański Makbet nieraz już próbował/
+Podobną sztuką w swe dostać mnie szpony,/
+Lecz skromny zasób mojego rozumu/
+Bronił mnie dotąd od łatwowierności./
+Bóg teraz sędzią między mną a tobą,/
+Bo od dziś twoją kieruję się radą./
+Potwarze, którem sam rzucał na siebie,/
+Cofam, bo obce zbrodnie mi te wszystkie,/
+Bo żadna duszy mojej nie obciąża:/
+Nie znam kobiety, ni krzywoprzysięstwa;/
+Zaledwo tego pragnę, co jest moje;/
+Danego słowa nigdy nie zgwałciłem,/
+I diabła nawet nie zdradzę dla diabła;/
+Prawda mi droga, jak moje jest życie;/
+Pierwszym raz skłamał, by siebie szkalować./
+Całego siebie, jak jestem, oddaję/
+Na twe usługi i mej biednej ziemi,/
+Do której, jeszcze przed twoim przybyciem,/
+Dziesięć tysięcy dzielnych wojowników/
+Podeszły Siward miał ze mną prowadzić./
+Pójdziemy razem: świętej sprawy naszej/
+Niechaj fortuna będzie towarzyszką!/
+Dlaczego milczysz?</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Trudno mi pogodzić</wers_cd>/
+Tyle szczęśliwych i bolesnych rzeczy.
+</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Doktor</osoba>.</didaskalia>
+
+
+
+<kwestia><strofa>Na później resztę. --- Racz powiedzieć, proszę,/
+Czy król się zbliża?</strofa></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Tak jest, bo tłum chorych</wers_cd>/
+W nim swe ostatnie nadzieje pokłada<pe><slowo_obce>Czy król się zbliża? [...] Tak jest, bo tłum chorych w nim swe ostatnie nadzieje pokłada</slowo_obce> --- dawniej w zach. Europie wierzono, że dotyk władcy leczy skrofuły, zwane też królewską chorobą, czyli gruźlicę węzłów chłonnych.</pe>;/
+Bezsilna sztuka nie może im pomóc;/
+Lecz Bóg dał taką siłę jego dłoniom,/
+Że jednym tknięciem do zdrowia przywraca.</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Dzięki, doktorze!</strofa></kwestia>
+ 
+<didaskalia>Wychodzi <osoba>Doktor</osoba>.</didaskalia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Co to za choroba?</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Niemoc królewska. Król ten bogobojny/
+Wielką ma siłę, nieba dar szczęśliwy,/
+Której, od czasu jak przebywam w Anglii,/
+Nieraz już skutki cudowne widziałem./
+Nie wiem, jak pan Bóg łaskę mu tę zsyła,/
+Lecz wiem, że leczy biedny lud cierpiący,/
+Spuchły, wrzodliwy, oczom straszny widok,/
+A rozpacz sztuki bezsilnej lekarzy./
+Złoty na szyi zawiesza im medal/
+Z świętą modlitwą; a jak powiadają,/
+Swoim następcom w spadku moc zostawia./
+Oprócz tej cnoty, ma i dar proroctwa:/
+Błogosławieństwa, jego tron zdobiące,/
+Świadczą, że król ten łaski bożej pełen.</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Ross</osoba>.</didaskalia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+<kwestia><strofa>
+Kto to?
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Mój rodak; choć nie znam go jeszcze.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Dobry kuzynie, witaj między nami!
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Znam go! O Boże, usuń te zawady,/
+Które nas dzisiaj obcymi zrobiły!
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Amen!
+</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>A Szkocja?</wers_cd></strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>O biedna kraina!</wers_cd>/
+Sama własnego lęka się widoku!/
+Ona nie matką, lecz grobem jest naszym;/
+Tam się uśmiecha tylko, kto nic nie wie;/
+Choć wszędzie jęki, krzyki, wszędzie łkania,/
+Nikt przecie na nie baczności nie daje;/
+Gwałtowna rozpacz rzeczą tam powszednią;/
+Dzwon śmierć ogłasza, czyją? nikt nie spyta;/
+Żywot uczciwych prędzej tam marnieje,/
+Niż kwiat przypięty do ich kapelusza/
+Uschnie lub zwiędnie.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Jak opis dokładny,</wers_cd>/
+I jak prawdziwy!</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Jaki żal najnowszy?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Godzinę stary już się z mówcy śmieje,/
+Bo nowy z każdą lęgnie się minutą.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Jak się ma żona moja?</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Dobrze.</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Moje dzieci?</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>I dzieci dobrze.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Czyli ich pokoju</wers_cd>/
+Okrutny tyran nie zakłócił jeszcze?
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>O nie, i wszystkie, gdy je opuściłem,/
+Były w pokoju.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Słów nie bądź tak skąpy!</wers_cd>/
+Co się tam dzieje?
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Gdym tu niósł wiadomość,</wers_cd>/
+Która bolesnym była mi ciężarem,/
+Biegały wieści, że już tłum walecznych/
+Za broń uchwycił, a wieść tę potwierdził/
+Widok orężnych zastępów tyrana./
+Czas nieść im pomoc. Twoje oko w Szkocji/
+Żołnierzy stworzy, uzbroi kobiety,/
+By skończyć ucisk.</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Niech to je pocieszy,</wers_cd>/
+Że spieszym do nich. Szlachetny król Anglii/
+Dał nam tysięcy dziesięć i Siwarda,/
+A w chrześcijaństwie nie znajdziesz rycerza,/
+Wiekiem równego mu i doświadczeniem.
+</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Czemuż pociechy równej dla was nie mam!/
+Ja słowa niosę, które należało/
+Wyć na pustyni, by ludzkie ich ucho/
+Schwycić nie mogło.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>A kto ich przedmiotem?</wers_cd>/
+Ogólna sprawa, czy to jednej piersi/
+Smutne dziedzictwo?</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Każda myśl uczciwa</wers_cd>/
+Udział swój bierze w tej ciężkiej boleści,/
+Lecz głównie ciebie jednego dotyczy.</strofa></kwestia>
+
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jeśli mnie, dłużej nie rób tajemnicy,/
+Powiedz mi wszystko!
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Niechaj uszy twoje</wers_cd>/
+Moim językiem na wieki nie gardzą,/
+Który im wyda dźwięki najstraszliwsze,/
+Co kiedykolwiek mogły je rozdzierać.</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Ha! Już zgaduję!</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Zamek napadnięto,</wers_cd>/
+Żonę twą, dzieci zabito okrutnie./
+Jak? Opisywać, byłoby dorzucić/
+Do ich okrutnej pastwy jedną jeszcze ---/
+I twoje życie.
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Litościwy Boże!</wers_cd>/
+Na brwi tak czapki nie naciskaj, mężu!/
+Daj głos boleści! Boleść bowiem niema/
+Do serca szepce i pękać mu każe.</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+I dzieci moje?
+</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Żonę, dzieci, sługi,</wers_cd>/
+Wszystko, co było!</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+<kwestia><strofa><wers_cd><begin id="b1379886022464-1105074766"/><motyw id="m1379886022464-1105074766">Żałoba</motyw>A jam był daleko!</wers_cd>/
+I żonę także?</strofa></kwestia>
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Już ci powiedziałem.</wers_cd>
+</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Niechaj myśl zemsty pociechą ci będzie:/
+Śmiertelną boleść zemstą wyleczymy.
+</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>On nie ma dzieci! Moje niemowlęta!/
+Wszystkie mówiłeś? Piekielny jastrzębiu!/
+Wszystkie, co, wszystkie piękne me pisklęta,/
+I matkę razem w twe chwyciłeś szpony?</strofa></kwestia>
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jak mąż znieś boleść.
+</strofa></kwestia>
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Jak człowiek ją zniosę,</wers_cd>/
+Ale jak człowiek czuć ją równie muszę,/
+Muszę pamiętać, że były stworzenia/
+Droższe nad wszystko dla mojego serca./
+I Bóg to widział i strony ich nie wziął?/
+Grzeszny Macduffie, za ciebie zginęły!/
+O ja nikczemny! Boć nie za ich grzechy,/
+Ale za moje, mord na ich spadł dusze./
+Teraz im, Boże, wieczny daj spoczynek!</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Na tym kamieniu szablę twoją naostrz;/
+Żal na gniew przemień, serca nie przytępiaj,/
+Rozwściekl je raczej!
+<end id="e1379886022464-1105074766"/></strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Jażbym grał oczyma</wers_cd>/
+Rolę kobiety, językiem junaka?/
+Lecz, dobry Boże, znieś wszelkie przewłoki,/
+Tego szatana Szkocji i mnie postaw/
+Twarz w twarz, na długość mojego oręża,/
+A jeśli ujdzie, to i ty mu przebacz!</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>To męża słowo. Więc śpieszmy się teraz/
+Pożegnać króla; wszystko już gotowe;/
+Makbet już dojrzał, ażeby go strząsnąć;/
+Przygotowało niebo swe narzędzia./
+Idźmy, gdzie z zemstą pociecha zawita:/
+Po długiej nocy w końcu ranek --- świta.</strofa></kwestia>
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+
+<naglowek_akt>AKT PIĄTY</naglowek_akt>
+
+
+
+
+<naglowek_scena>SCENA I</naglowek_scena>
+
+<didaskalia>Dunsinane. Pokój w zamku.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Doktor</osoba> i <osoba>Dama pałacowa</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Dwie noce z tobą czuwałem, ale nie mogłem sprawdzić twojego opowiadania. Kiedy przechodziła się po
+raz ostatni?</akap></kwestia>
+
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Od czasu jak J. K. Mość wyciągnął w pole, widziałam, jak wstała z łóżka, zarzuciła na siebie nocną
+odzież, otworzyła komnatę, wzięła papier, złożyła,
+napisała list i odczytała, a zapieczętowawszy go, wróciła do łóżka, wszystko w śnie najgłębszym.</akap></kwestia>
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Wielki nieład natury! Korzystać ze snu dobrodziejstwa, a razem dopełniać funkcje czuwania! W tym
+śnie niespokojnym, prócz przechadzki i innych czynności, czy słyszałaś ją kiedykolwiek mówiącą?</akap></kwestia>
+
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Słyszałam rzeczy, których nie chcę po niej powtórzyć.</akap></kwestia>
+
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Możesz je mnie powtórzyć, jest nawet koniecznością,
+żebyś je powtórzyła.</akap></kwestia>
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Ani tobie, panie, ani nikomu innemu, bo nie mam
+świadków na potwierdzenie słów moich. <didask_tekst>Wchodzi
+<osoba>Lady Makbet</osoba> se świecą.</didask_tekst> Ale, patrz! nadchodzi! Właśnie, jak mówiłam, a na moje życie, głęboko uśpiona.
+Patrz, patrz! Zbliża się.</akap></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Skąd wzięła to światło?</akap></kwestia>
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Miała je przy sobie. Lampa pali się przy niej bez
+ustanku; taki jej rozkaz.</akap></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Widzisz, że oczy jej są otwarte.</akap></kwestia>
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Ale zamknięty ich zmysł widzenia.</akap></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Co teraz robi? Patrz! Jak trze ręce.</akap></kwestia>
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>To ruch jej zwyczajny, jakby omywała ręce. Widziałam ją tak zajętą cały kwandrans bez przerwy.</akap></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Ale tu zawsze jest plama.
+</strofa></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Cicho! Mówi! Zapiszę każde słowo z ust jej wychodzące dla większej pewności.</akap></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Precz stąd, przeklęta plamo! Precz! Powtarzam. ---
+Raz, dwa! A więc czas już wziąć się do dzieła. Czarne
+jest piekło! Wstydź się, mój mężu, wstydź się! Być
+żołnierzem a trwożyć się! Czemuż się mamy lękać,
+że wie ktoś o tym, skoro nikt nie może zawezwać
+naszej potęgi do zdania liczby? Kto by jednak mógł
+myśleć, że starzec miał jeszcze tyle krwi w swoich
+żyłach!</akap></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Czy słyszysz?</akap></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+<kwestia><akap>Than Fife'u miał żonę; a gdzie ona teraz? Jak to?
+Nigdyż te ręce nie będą czyste? Dość tego! Mój
+mężu, dość tego! Twoje szaleństwo psuje wszystko.</akap></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Oddal się! Oddal się! Dowiedziałaś się, czego nie należało ci wiedzieć.</akap></kwestia>
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Jestem przynajmniej pewna, że ona powiedziała, czego
+nie należało jej powiedzieć.</akap></kwestia>
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Czuć tu zawsze krwi zapach. Wszystkie kadzidła Arabii nie uwonnią<pe><slowo_obce>uwonnić</slowo_obce> --- nadać piękny zapach; tu: zagłuszyć zły zapach krwi.</pe> tej małej ręki. Och! och! och!</akap></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><akap>Co za westchnienie! Bolesny ciężar przygniótł jej
+serce.</akap></kwestia>
+
+
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Nie chciałabym takiego serca w moich piersiach za
+wszystkie honory jej ciała.</akap></kwestia>
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Dobrze, dobrze, dobrze.</akap></kwestia>
+
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Daj Boże, aby to było dobrze!</akap></kwestia>
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Choroba ta przechodzi moją sztukę. Znałem jednak
+osoby, które we śnie chodziły, które jednak umarły
+świętobliwie w swoim łóżku.</akap></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Umyj ręce; wdziej nocną odzież, a nie bądź tak blady!
+Powtarzam ci raz jeszcze: Banquo pogrzebany nie
+może wstać z grobu.</akap></kwestia>
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Byćże to może?</akap></kwestia>
+
+
+<naglowek_osoba>LADY MAKBET</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Do łóżka, do łóżka! Ktoś stuka do bramy. Chodź,
+chodź, chodź, chodź, daj mi rękę! Co się stało, odstać
+się nie może. Do łóżka, do łóżka, do łóżka!</akap></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Czy wróci teraz do łóżka?</akap></kwestia>
+
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Natychmiast.</akap></kwestia>
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Szpetne biegają między ludźmi wieści./
+Przeciw naturze czyny wywołują/
+I nieład funkcyj przeciwny naturze./
+Myśl chora wyzna głuchemu wezgłowiu/
+Serc tajemnice. Nie doktora teraz,/
+Ale jej trzeba raczej spowiednika./
+Odpuść nam, Panie! --- Pośpiesz teraz za nią,/
+Nie spuść jej z oka, żeby sama siebie/
+Nie pokrzywdziła. A teraz, dobranoc!/
+Oczy olśniła, strwożyła mą duszę;/
+Myślę, lecz myśli me utaić muszę.</strofa></kwestia>
+
+
+<naglowek_osoba>DAMA</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Teraz dobranoc, dobry mój doktorze.</akap></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+
+<naglowek_scena>SCENA II</naglowek_scena>
+
+
+
+
+
+<didaskalia>Okolica blisko Dunsinane.</didaskalia>
+
+
+
+<didaskalia>Wchodzą przy odgłosie bębnów z sztandarami: <osoba>Menteith</osoba>, <osoba>Caithness</osoba>,
+<osoba>Angus</osoba>, <osoba>Lennox</osoba> i <osoba>Żołnierze</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MENTEITH</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Już niedaleko angielskie są pułki,/
+Które prowadzą Malcolm, Siward, Macduff;/
+Zemsta ich pali, bo ta święta sprawa/
+Na bój by krwawy nawet pustelnika/
+Z celi wywiodła.</strofa></kwestia>
+
+
+<naglowek_osoba>ANGUS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Przy birnamskim lesie</wers_cd>/
+Złączym się z nimi; tamtą ciągną drogą.
+</strofa></kwestia>
+
+
+<naglowek_osoba>CAITHNESS</naglowek_osoba>
+
+
+
+ 
+<kwestia><akap>Czy i Donalbain z swym przybywa bratem?</akap></kwestia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nie, bo mam całą listę zbrojnej szlachty./
+Jest tam Siwarda syn i tłum młokosów/
+Bezbrodnych<pe><slowo_obce>bezbrodny</slowo_obce> --- taki, któremu nie rośnie broda, bardzo młody.</pe> jeszcze, chciwych złożyć dzisiaj/
+Pierwsze dowody, że są już mężami.</strofa></kwestia>
+
+
+<naglowek_osoba>MENTEITH</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ A tyran?
+</strofa></kwestia>
+
+
+<naglowek_osoba>CAITHNESS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Wzmacnia twierdzę Dunsinane'u.</wers_cd>/
+Oszalał, mówią jedni, inni znowu,/
+Mniej nań zawzięci, jego stan mianują/
+Odwagi szałem; ale to jest pewna,/
+Że rozpaczliwej sprawy swej nie może/
+W pas ładu ująć.</strofa></kwestia>
+
+
+<naglowek_osoba>ANGUS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Tajemne morderstwa</wers_cd>/
+Czuje, jak teraz lgną do jego dłoni;/
+<begin id="b1379922396868-947392489"/><motyw id="m1379922396868-947392489">Władza</motyw>Dziś mu bunt wiarę złamaną wyrzuca,/
+A zbrojne jego zastępy prowadzi/
+Rozkaz, nie miłość; czuje, jak tytuły/
+Wiszą dziś na nim, niby płaszcz olbrzyma/
+Na karłowatym złodzieju.<end id="e1379922396868-947392489"/></strofa></kwestia>
+
+
+<naglowek_osoba>MENTEITH</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Kto zgani</wers_cd>/
+Strwożone zmysły jego, że się mącą,/
+Kiedy się wszystko, co w nim jest, oskarża,/
+Że tam jest?</strofa></kwestia>
+
+
+<naglowek_osoba>CAITHNESS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Idźmy, nasze posłuszeństwo</wers_cd>/
+Ponieśmy temu, komu się należy;/
+Chorej ojczyźnie szukajmy lekarstwa;/
+Krwi naszej kroplę ostatnią wylejmy,/
+By ją oczyścić.</strofa></kwestia>
+
+
+<naglowek_osoba>LENNOX</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Wylejmy, co trzeba,</wers_cd>/
+Aby jak rosą królewski kwiat skropić,/
+A wszystkie zielska i chwasty zatopić./
+Więc naprzód, naprzód ku birnamskim lasom!</strofa></kwestia>
+
+
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA III</naglowek_scena>
+
+<didaskalia>Dunsinane. Pokój w zamku.</didaskalia>
+
+
+
+<didaskalia>Wchodzą: <osoba>Makbet</osoba>, <osoba>Doktor</osoba> i <osoba>Służba</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Dość tych raportów! Niechaj uciekają;/
+Póki birnamski las się nie przybliży/
+Do Dunsinane'u, nie wiem, co to trwoga./
+Dzieciuch ten Malcolm, alboż nie z kobiety/
+I on się rodził? Duchy, spraw śmiertelnych/
+Dobrze świadome, tak mi powiedziały:/
+,,Śmiało, Makbecie, bo cię nie zwycięży/
+Człowiek, którego rodziła kobieta"./
+Więc uciekajcie, fałszywi thanowie,/
+Do tych angielskich epikurejczyków,/
+Mimo zdrad waszych, serca ni mej duszy/
+Powątpiewanie lub trwoga nie wzruszy./ 
+<didask_tekst>(Wchodzi <osoba>Sługa</osoba>.)</didask_tekst>/
+Bodaj ci diabeł poczernił, hultaju,/
+Twarz twoją mleczną! I gdzież to znalazłeś/
+Tę gęsią minę?</strofa></kwestia>
+
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Już dziesięć tysięcy ---</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Gęsi?
+</strofa></kwestia>
+
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Żołnierzy, królu.</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Precz stąd, łotrze,</wers_cd>/
+Pokłuj oblicze, twą pomaluj trwogę,/
+Obrzydły chłopie z wątrobą liliową!/
+Co za żołnierze? Duszy twej zagłada!/
+Chuściane lica twoje trwogę radzą./
+Co za żołnierze, rycerzu z serwatki?</strofa></kwestia>
+
+
+<naglowek_osoba>SŁUGA</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+Wojsko angielskie, miłościwy królu.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Precz mi stąd!/ 
+<didask_tekst><osoba>Sługa</osoba> wychodzi.</didask_tekst>/
+<wers_cd>Seyton! Słabo mi się robi,</wers_cd>/
+Gdy widzę --- Seyton, hola! To spotkanie/
+Lub mnie na zawsze od trwogi wyzwoli,/
+Lub dziś obali. Dość już długo żyłem;/
+Schnie już mój żywot, żółkną jego liście;/
+A co starości winno towarzyszyć,/
+Jak honor, miłość, przyjaciół drużyna,/
+I posłuszeństwo --- to już nie jest dla mnie!/
+Lecz na ich miejsce przekleństwa, nie głośne/
+Ale głębokie; w ustach poważanie,/
+Dech, który biedne chętnie by mi serca/
+Odmówić chciały, tylko nie śmią. Seyton!</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Seyton</osoba>.</didaskalia>
+
+
+<naglowek_osoba>SEYTON<pe><slowo_obce>Seyton</slowo_obce> --- w innych polskich przekładach częstsza pisownia: Sejton.</pe></naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Na rozkaz, królu.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Jakie masz nowiny?</wers_cd>
+</strofa></kwestia>
+<naglowek_osoba>SEYTON</naglowek_osoba>
+
+<kwestia><strofa>
+Wszystkie poprzednie raporta<pe><slowo_obce>raporta</slowo_obce> --- dziś popr. forma M. lm: raporty.</pe> stwierdzone.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Póki mi z kości nie odsieką ciała,/
+Będę się z nimi bił. Podaj mi zbroję.
+</strofa></kwestia>
+<naglowek_osoba>SEYTON</naglowek_osoba>
+
+<kwestia><strofa>
+Jeszcze nie pora.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd>Wezmę ją natychmiast.</wers_cd>/
+Niech jazda zbieży okoliczne pola,/
+A kto o trwodze mówić się odważy,/
+Na szubienicę! --- Daj zbroję. --- Doktorze,/
+Jakże tam dzisiaj twoja pacjentka?</strofa></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Nie tyle chora, królu, co znękana/
+Ciągiem natrętnych widzeń, co jej spocząć/
+Nie dają chwili.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa><wers_cd><begin id="b1379922890597-1187682429"/><motyw id="m1379922890597-1187682429">Choroba</motyw>Wylecz ją, doktorze.</wers_cd>/
+Czy chorej myśli nie umiesz wyzdrowić,/
+Wyrwać z pamięci smutków wkorzenionych,/
+Wymazać z mózgu pismo niepokoju,/
+I jakim słodkim zapomnienia lekiem/
+Wypędzić z piersi niebezpieczny osad,/
+Który na sercu ciąży?</strofa></kwestia>
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>W tej słabości</wers_cd>/
+Sam chory własnym musi być doktorem.
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>Daj psom twą sztukę, słyszeć o niej nie chcę.<end id="e1379922890597-1187682429"/>/
+Pomóż mi zbroję włożyć; daj buławę;/
+Wyślij patrole. Słyszałeś doktorze,/
+Jak uciekają ode mnie thanowie? ---/
+Śpiesz się! --- Doktorze, gdybyś ty potrafił/
+Z wody mojego królestwa wyśledzić/
+Jego chorobę i zdrowie mu wrócić,/
+Imię bym twoje wszystkim echom podał,/
+By je po całej rozgłosiły ziemi. ---/
+Odepnij, mówię! --- Powiedz mi, doktorze,/
+Jaki rabarbar, senna albo purgans/
+Mógłby tę ziemię z Anglików oczyścić?/
+Czyś słyszał o nich?</strofa></kwestia>
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Słyszałem; wieść o nich</wers_cd>/
+Przygotowania królewskie mi dały.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Ponieś to za mną. Nie wprzódy me serce/
+Na widok wroga w trwodze się pogrąży,/
+Aż las birnamski do Dunsinane zdąży.
+</strofa></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+
+<naglowek_osoba>DOKTOR</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Dzień będzie błogi, gdy Dunsinane rzucę./
+Za skarby świata drugi raz nie wrócę.</strofa></kwestia>
+ 
+<didaskalia>Wychodzi.</didaskalia>
+
+
+<naglowek_scena>SCENA IV</naglowek_scena>
+
+<didaskalia>Okolica w bliskości Dunsinane. Las na widoku.</didaskalia>
+
+
+
+<didaskalia>Wchodzą przy odgłosie bębnów z chorągwiami: <osoba>Malcolm</osoba>, <osoba>stary
+Siward</osoba> i <osoba>Syn</osoba> jego, <osoba>Macduff</osoba>, <osoba>Menteith</osoba>, <osoba>Caithness</osoba>, <osoba>Angus</osoba>, <osoba>Lennox</osoba>,
+<osoba>Ross</osoba>, <osoba>Żołnierze</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Dzień niedaleki, w Bogu mam nadzieję,/
+W którym bezpieczne domy nasze będą.</strofa></kwestia>
+
+
+<naglowek_osoba>MENTEITH</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Tak myślim.
+</strofa></kwestia>
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Co to za las jest przed nami?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>MENTEITH</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>To las birnamski.</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Niechaj każdy żołnierz</wers_cd>/
+Niesie przed sobą gałąź tam uciętą,/
+Bo tak zastępy nasze osłonione/
+Zmylą rachuby poczt nieprzyjacielskich.
+</strofa></kwestia>
+
+
+<naglowek_osoba>ŻOŁNIERZE</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Wypełnim rozkaz.</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Wszystko przekonywa,</wers_cd>/
+Że tyran ufny w mury Dunsinane'u/
+Na oblężenie czeka.</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Tam jest cała</wers_cd>/
+Jego nadzieja, bo lud i panowie,/
+Gdzie się im tylko zdarzyła sposobność,/
+Podnieśli rokosz<pe><slowo_obce>rokosz</slowo_obce> --- bunt.</pe>, a ci, co mu służą,/
+Służą z przymusu; serca ich daleko.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Niechaj wypadki postanowieniami,/
+A mądrość naszą kieruje odwagą.
+</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <begin id="b1379923075926-1076033171"/><motyw id="m1379923075926-1076033171">Czyn</motyw>Czas niedaleki, w którym ujrzym snadnie,/
+Co będzie nasze, co oddać wypadnie;/
+Nadzieje płodzą czcze myśli marzenia,/
+Miecz tylko myśli na pewność przemienia;/
+Do tej pewności idźmy teraz śmiało.
+<end id="e1379923075926-1076033171"/></strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA V</naglowek_scena>
+
+<didaskalia>Dunsinane. W zamku.</didaskalia>
+
+
+
+<didaskalia>Przy odgłosie bębnów z chorągwiami wchodzą: <osoba>Makbet</osoba>, <osoba>Seyton</osoba>,
+<osoba>Żołnierze</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Na murach twierdzy zatknijcie chorągwie./
+Straż ciągle woła: ,,idą!" Silny zamek/
+Ze śmiechem patrzy na ich oblężenie;/
+Niechaj zalegną pola okoliczne,/
+Póki ich febra i głód nie wytępią./
+Gdyby nie zastęp, co w pomoc im przyszedł,/
+A co po naszej stać powinien stronie,/
+Twarz w twarz im spojrzeć moglibyśmy śmiało/
+I z Szkocji wygnać./ 
+<didask_tekst>Słychać krzyki za sceną.</didask_tekst>/
+<wers_cd>Co to są za krzyki?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>SEYTON</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Dobry mój królu, to są krzyki niewiast.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Prawiem zapomniał, jak smakuje trwoga./
+Minęły czasy, w których moje zmysły/
+Drętwiały we mnie na lada krzyk nocny,/
+Gdy moje włosy na okropną powieść/
+Wstawały wszystkie, jak gdyby żyjące./
+Lecz nasyciłem się okropnościami,/
+A strach tak z moją pobratał się myślą,/
+Że nic nie może drżenia we mnie zbudzić./
+Dlaczego płaczą?</strofa></kwestia>
+
+
+<naglowek_osoba>SEYTON</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Królowa umarła.</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><begin id="b1379923257770-468869991"/><motyw id="m1379923257770-468869991">Przemijanie, Kondycja ludzka</motyw>Później jej trochę należało umrzeć;/
+Na słowa takie czas jeszcze nie przyszedł./
+Jutro po jutrze i po jutrze jutro,/
+Wolnym się krokiem od dnia do dnia czołga,/
+Aż do ostatniej wszech czasów sylaby,/
+A wszystkie wczoraj nasze przyświecały/
+Głupcom na drodze do prochów mogiły./
+Zgaśnij, o zgaśnij świeco krótkotrwała!/
+To życie tylko cieniem jest przelotnym,/
+Nędznym aktorem, co przez swą godzinę/
+Na scenie świata pawi się i puszy,/
+I milknie potem; to opowiadana/
+Z krzykiem i furią powieść przez idiotę,/
+Nic nie znacząca.<end id="e1379923257770-468869991"/>/ 
+<didask_tekst>Wchodzi <osoba>Posłaniec</osoba>.</didask_tekst>/
+<wers_cd>Przynosisz mi wieści?</wers_cd>/
+Więc mów, a krótko!</strofa></kwestia>
+
+
+<naglowek_osoba>POSŁANIEC</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Łaskawy mój królu,</wers_cd>/
+Chciałbym powiedzieć, com z pewnością widział,/
+Lecz nie wiem, jak to zrobić.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Spróbuj jednak.</wers_cd></strofa></kwestia>
+
+<naglowek_osoba>POSŁANIEC</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Stojąc na czatach, gdy z wierzchołka góry/
+Ku Birnam oczy moje obróciłem,/
+Aż mi się zdało, las począł się ruszać. ---</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+ 
+<didaskalia>uderzając go</didaskalia>
+
+
+<kwestia><strofa>
+ Nikczemny kłamco!
+</strofa></kwestia>
+
+
+<naglowek_osoba>POSŁANIEC</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Jeśli to nie prawda,</wers_cd>/
+Niech gniew twój cały spadnie na mnie, królu!/
+O trzy mil drogi sam możesz zobaczyć/
+Las cały w marszu.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Jeśli fałsz donosisz,</wers_cd>/
+Na pierwszym drzewie żywcem cię powieszę,/
+Aż z głodu uschniesz. Jeśli mówisz prawdę,/
+Nie dbam, gdy ze mną ty zrobisz to samo. ---/
+W postanowieniu swym chwiać się zaczynam,/
+I dwuznaczników diabła się domyślać,/
+W którego prawdzie kłamstwo: ,,bądź bez trwogi,/
+Aż do Dunsinane las przyjdzie birnamski";/
+I do Dunsinane las zbliża się teraz./
+Do broni! Naprzód! Wyruszmy na pole!/
+Jeśli to prawda, a nie przywidzenia,/
+Uciekać, zostać, sprawy mej nie zmienia./
+Już mnie zaczyna światło trudzić słońca,/
+I chciałbym świata doczekać się końca./
+Uderzcie w dzwony! Wichrze, wiej ruinę!/
+Jak mąż w przyłbicy i z orężem zginę!</strofa></kwestia>
+ 
+<didaskalia>Wychodzą.</didaskalia>
+
+
+<naglowek_scena>SCENA VI</naglowek_scena>
+
+<didaskalia>Dunsinane. Płaszczyzna przed zamkiem.</didaskalia>
+
+
+
+<didaskalia>Wchodzą przy odgłosie bębnów, z chorągwiami; <osoba>Malcolm</osoba>, <osoba>stary
+Siward</osoba>, <osoba>Macduff</osoba> itd. i armia z gałęziami.</didaskalia>
+
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Odrzućcie teraz zasłony liściaste,/
+I jak jesteście, pokażcie się wrogom!/
+Ty, zacny stryju, z twym szlachetnym synem/
+Szyk prowadź pierwszy, ja, z dzielnym Macduffem,/
+Biorę spełnienie reszty planów naszych.</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Bądź zdrów! Gdy spotkam zastępy tyrana,/
+Jeżeli na nie pierwszy się nie rzucę,/
+Niech z placu boju pobity nie wrócę.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Uderzcie w bębny, niechaj tyranowi,/
+Dźwięk ich łoskotny krew i śmierć zapowie!
+</strofa></kwestia>
+
+
+<didaskalia>Wychodzą. --- Ciągły alarm.</didaskalia>
+
+
+<naglowek_scena>SCENA VII</naglowek_scena>
+
+<didaskalia>Okolica Dunsinane. Inna część płaszczyzny.</didaskalia>
+
+
+
+<didaskalia>Wchodzi <osoba>Makbet</osoba>.</didaskalia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jak przywiązany do słupa, nie mogę/
+Uciekać, muszę jak niedźwiedź tu walczyć. ---/
+Gdzie mąż, którego nie rodzi kobieta?/
+Takiego tylko lękać mi się trzeba.
+</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>młody Siward</osoba>.</didaskalia>
+
+
+<naglowek_osoba>MŁODY SIWARD</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+Jakie twe imię?
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Zadrżysz, gdy się dowiesz.</wers_cd>
+</strofa></kwestia>
+<naglowek_osoba>MŁODY SIWARD</naglowek_osoba>
+
+<kwestia><strofa>
+Nie, choćby nawet gorętszego miana/
+W piekle nie było!
+</strofa></kwestia>
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+
+<kwestia><strofa>
+<wers_cd>Imię moje Makbet!</wers_cd>
+</strofa></kwestia>
+<naglowek_osoba>MŁODY SIWARD</naglowek_osoba>
+
+<kwestia><strofa>Diabeł by nie mógł nazwiska wymówić/
+Dla moich uszu nienawistniejszego.</strofa></kwestia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Ni groźniejszego.
+</strofa></kwestia>
+<naglowek_osoba>MŁODY SIWARD</naglowek_osoba>
+
+<kwestia><strofa><wers_cd>Obrzydły tyranie,</wers_cd>/
+Kłamiesz, tą szablą kłamstwa ci dowiodę!</strofa></kwestia>
+
+
+<didaskalia>Walczą. --- <osoba>Młody Siward</osoba> pada zabity.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Z kobietyś zrodzon! --- Śmieję się z oręża,/
+W dłoniach z kobiety zrodzonego męża.</strofa></kwestia>
+
+<didaskalia>Wychodzi.</didaskalia>
+
+
+
+<didaskalia>Alarm. --- Wchodzi <osoba>Macduff</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Z tej strony wrzawa. Pokaż się, tyranie!/
+Bo jeśli zginiesz, a nie z mojej ręki,/
+Dzieci i żony duch skarżyć się będzie./
+Najemnych kernów<pe><slowo_obce>kernowie</slowo_obce> --- lekkozbrojna najemna piechota irlandzka.</pe> nie mam serca rąbać,/
+Z tobą chcę walczyć, Makbecie, lub szablę/
+Niewyszczerbioną włożę znów do pochwy./
+Tam jesteś pewno, bo ten szczęk orężów/
+Zda się pierwszego głosić wojownika./
+Daj mi go znaleźć, fortuno! Jedynie/
+O to cię błagam!</strofa></kwestia>
+ 
+<didaskalia>Wychodzi. --- Alarm.</didaskalia>
+
+
+
+<didaskalia>Wchodzą <osoba>Malcolm</osoba> i stary <osoba>Siward</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Tą stroną, mój książę.</wers_cd>/
+Już dobrowolnie zamek się nam poddał;/
+Z obu stron walczą tyrana zastępy;/
+Twoi thanowie dzielnie się sprawili;/
+Zwycięstwo prawie przy tobie, by skończyć,/
+Mało brakuje.</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Spotkaliśmy wrogów,</wers_cd>/
+Których część z nami w jednej walczy sprawie.</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Wejdźmy do zamku, książę.
+</strofa></kwestia>
+
+
+<didaskalia>Wychodzą. --- Alarm. --- Wchodzi <osoba>Makbet</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Po co rzymskiego głupca mam grać rolę/
+I od własnego miecza ginąć? Póki/
+Żyjących widzę, lepiej jego ostrze/
+Na nich obrócić.</strofa></kwestia>
+ 
+<didaskalia>Wchodzi <osoba>Macduff</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Mara cię, psie piekielny!</wers_cd>
+</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Z wszystkich jednego ciebie unikałem./
+Lecz odejdź; zbyt już wiele na mej duszy/
+Krwi twojej ciąży.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Nie mam słów, w mej szabli</wers_cd>/
+Głos mój jest tylko, ty nędzniku krwawszy/
+Nad wszelki wyraz ludzkiego języka!</strofa></kwestia>
+ 
+<didaskalia>Walczą.</didaskalia>
+
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Próżny twój mozół. Twoim ostrym mieczem/
+Prędzej powietrze w kawałki byś pociął,/
+Niż krwi kropelkę wytoczył z żył moich./
+Idź szukać hełmów, które strzaskać możesz,/
+<begin id="b1379923872291-3549665885"/><motyw id="m1379923872291-3549665885">Proroctwo, Poród</motyw>Bo moje życie zaklęte i próżno/
+Sili się na nie z kobiety zrodzony.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>A więc rozpaczaj o twoim zaklęciu!/
+Niechaj ci anioł, któremu aż dotąd/
+Służyłeś, powie, że Macduff przed czasem/
+Ze swojej matki wydarty był łona.</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Przeklęty język, który mi to mówi!/
+Bo część najlepszą męskości mi wydarł./
+Niechaj nikt piekła szalbierstwom nie wierzy,/
+Co nas dwuznaczną mową oszukuje,/
+Naszemu uchu dotrzymując słowa,/
+Naszej nadziei łamiąc je zdradliwie!<end id="e1379923872291-3549665885"/>/
+Nie chcę się z tobą bić.</strofa></kwestia>
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Więc zdaj się, tchórzu,</wers_cd>/
+I żyj na czasów naszych dziwowisko!/
+Obraz twój, niby najrzadszej potwory,/
+Z takim napisem wywiesim na żerdzi:/
+,,Kto chce, tu może zobaczyć tyrana".</strofa></kwestia>
+
+
+<naglowek_osoba>MAKBET</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nie chcę się poddać, by całować ziemię/
+U stóp młodego zwycięzcy Malcolma,/
+Być celem obelg i przekleństw motłochu./
+Choć do Dunsinane przyszedł las birnamski,/
+Choć wroga mego nie rodzi kobieta,/
+Ostatniej jednak doświadczyć chcę próby;/
+Zasłaniam wierną tarczą moją ciało./
+Uderz Macduffie, niech będzie przeklęty,/
+Który z nas pierwszy zawoła: ,,stój! dosyć!"</strofa></kwestia>
+
+
+<didaskalia>Wychodzą walcząc. --- Odwrót. Odgłos trąb. --- Wchodzą przy biciu
+bębnów, z rozwiniętymi chorągwiami: <osoba>Malcolm</osoba>, <osoba>stary Siward</osoba>, <osoba>Ross</osoba>,
+<osoba>Lennox</osoba>, <osoba>Angus</osoba>, <osoba>Caithness</osoba>, <osoba>Menteith</osoba>, <osoba>Żołnierze</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Bodaj bez szwanku wrócili braknący!
+</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Muszą być straty; z przytomnych wnioskując,/
+Wielkie zwycięstwo kupiliśmy tanio.
+</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Brak nam Macdufia i twojego syna.</strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Panie, żołnierski dług syn twój zapłacił./
+Żył tylko, póki nie wyrósł na męża,/
+A skoro tego swą dowiódł dzielnością,/
+Jednego w boju nie cofając kroku,/
+Jak mąż tam umarł.
+</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Jak to, więc zabity?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Tak jest, i z pola bitwy uniesiony./
+Jego zasługą twoich smutków nie mierz,/
+Bo by nie miały końca.</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd><begin id="b1379924078671-3012262716"/><motyw id="m1379924078671-3012262716">Odwaga, Rycerz, Ojciec, Syn, Śmierć bohaterska</motyw>Z przodu ranny?</wers_cd></strofa></kwestia>
+
+
+<naglowek_osoba>ROSS</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ W czoło.
+</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ <wers_cd>Więc bożym niech będzie żołnierzem!</wers_cd>/
+Gdybym miał synów tyle, co mam włosów,/
+Piękniejszej śmierci nie pragnąłbym dla nich./
+Niech mu to będzie dzwonem pogrzebowym!
+</strofa></kwestia>
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>
+ Więcej wart smutku i znajdzie go u mnie.
+</strofa></kwestia>
+
+
+<naglowek_osoba>SIWARD</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nie więcej, panie; mężnie życie stracił,/
+Swą długu cząstkę uczciwie zapłacił,/
+Więc Bóg z nim!<end id="e1379924078671-3012262716"/> --- Nowa zbliża się pociecha.</strofa></kwestia>
+
+
+<didaskalia>Wchodzi <osoba>Macduff</osoba> z głową <osoba>Makbeta</osoba>.</didaskalia>
+
+
+
+<naglowek_osoba>MACDUFF</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Witam cię, królu! Boś królem jest naszym./
+Patrz na przeklętą głowę samozwańca./
+To czas swobody; widzę wkoło ciebie/
+Twego królestwa perły, które w myśli/
+Chętnie wtórują memu powitaniu,/
+Niechże i głośno krzykną ze mną razem:/
+Witaj nam, królu Szkocji!</strofa></kwestia>
+
+
+<naglowek_osoba>WSZYSCY</naglowek_osoba>
+
+
+
+
+<kwestia><strofa><wers_cd>Witaj, królu Szkocji!</wers_cd></strofa></kwestia>
+
+<didaskalia>Trąby.</didaskalia>
+
+
+
+<naglowek_osoba>MALCOLM</naglowek_osoba>
+
+
+
+
+<kwestia><strofa>Nie będzie trzeba długiego nam czasu,/
+Byśmy zasługi obliczyli wasze,/
+I zapłacili, co jesteśmy dłużni./
+Thanowie, odtąd jesteście hrabiami,/
+Pierwsi uczczeni w Szkocji tym tytułem./
+Co nam prócz tego wypadnie dokonać,/
+Aby ojczysty szczep znów odzieleniał,/
+Przywołać naszych wygnanych przyjaciół,/
+Uciekających przed tyrana sidłem,/
+Ścigać siepaczy ległego rzeźnika/
+I jego żony szatańskiej, co własną,/
+Jak mówią, dłonią śmierć sobie zadała;/
+I to, i wszystko, co będzie potrzeba,/
+Spełnimy w miejscu i czasie, i mierze/
+Z Bożą pomocą. Dzięki wam, rycerze!/
+Do Scone was proszę, by tam moje skronie/
+W monarchów Szkocji zobaczyć koronie.</strofa></kwestia>
+
+
+<didaskalia>Wychodzą przy odgłosie trąb.</didaskalia>
+
+</dramat_wierszowany_l></utwor>
